@@ -1,4 +1,4 @@
-hXTINF:-1 tvg-logo="https://i.postimg.cc/y607zvdd/5d9f5606bedd4.jpg" group-title="Fifa World Cup Qatar", LIVE
+ihXTINF:-1 tvg-logo="https://i.postimg.cc/y607zvdd/5d9f5606bedd4.jpg" group-title="Fifa World Cup Qatar", LIVE
 http://restream.skyhd-iptv.com:25461/stylenet/iFGXx6kFa7/199
 http://hardcoremedia.xyz:80/35QfG7jjtB/1137579280/16055
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/manifest.mpd
@@ -128,6 +128,7 @@ http://929.noip.team:8080/play/live.php?mac=00:1A:79:4C:22:51&stream=296126&exte
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 tvg-logo="https://i-fries.bunkr.ru/liga-inggris-UgDH2FaG.png?download=true" group-title="LIVE EVENT" , Liga Inggris Dazn 1 
+https://dce-ac-live.cdn.indazn.com:443/dash/dazn-linear-037/stream.mpd?p=web
 https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-037/stream.mpd
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
