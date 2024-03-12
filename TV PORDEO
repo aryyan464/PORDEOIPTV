@@ -1,5 +1,20 @@
 
-###### LIVE ######
+###### LIVE #####
+#EXTINF:-1 group-title="SPORTS"  tvg-logo="https://i.ibb.co/JRvJdR6/eleven1.png",Eleven Sports 1
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
+https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-054/stream.mpd?p=web
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ibb.co/JpGPnd6/eleven2.png",Eleven Sports 2
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
+https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-055/stream.mpd?p=web
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ibb.co/TWhTFW8/eleven3.png",Eleven Sports 3
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
+https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-056/stream.mpd?p=web
+
 
 https://d1211whpimeups.cloudfront.net/smil:rtb2/chunklist_b608000_sleng.m3u8
 https://tvnow.best/api/stream/billypetty22@gmail.com/413397/livetv.epg/ss.premier.league.ze.m3u8
@@ -144,16 +159,11 @@ http://webudit.cdnhks.lol/lb/premium119/index.m3u8
 https://webudit.salamus1.lol/lb/premium119/index.m3u8
 
 
-
-
-
 EXTINF:-1 tvg-logo="https://i.postimg.cc/fW1CMt2n/0545510-Uefa-Champions-League-Wallpaper-5120x3200780x390.jpg" group-title="LIVE EVENT", Liga Champions CH 5
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
 #EXTVLCOPT:http-user-agent=android-R+
 http://webudit.cdnhks.lol/lb/premium426/index.m3u8
 https://webudit.salamus1.lol/lb/premium426/index.m3u8
-
-
 
 EXTINF:-1 tvg-logo="https://i.postimg.cc/sfBGzBb6/Italian-Serie-A-logo-PNG2.png" group-title="LIVE EVENT", Seri A Ch 1
 
