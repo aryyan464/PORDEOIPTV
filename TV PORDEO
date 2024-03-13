@@ -1,16 +1,16 @@
 
 ###### LIVE #####
-#EXTINF:-1 group-title="SPORTS"  tvg-logo="https://i.ibb.co/JRvJdR6/eleven1.png",Eleven Sports 1
+#EXTINF:-1 group-title="LIVE EVENT"  tvg-logo="https://i.ibb.co/JRvJdR6/eleven1.png",Eleven Sports 1
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
 https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-054/stream.mpd?p=web
 
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ibb.co/JpGPnd6/eleven2.png",Eleven Sports 2
+#EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://i.ibb.co/JpGPnd6/eleven2.png",Eleven Sports 2
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
 https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-055/stream.mpd?p=web
 
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ibb.co/TWhTFW8/eleven3.png",Eleven Sports 3
+#EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://i.ibb.co/TWhTFW8/eleven3.png",Eleven Sports 3
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
 https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-056/stream.mpd?p=web
@@ -122,6 +122,8 @@ http://929.noip.team:8080/play/live.php?mac=00:1A:79:4C:22:51&stream=296126&exte
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 tvg-logo="https://i-fries.bunkr.ru/liga-inggris-UgDH2FaG.png?download=true" group-title="LIVE EVENT" , Liga Inggris Dazn 1 
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
 https://dce-ac-live.cdn.indazn.com:443/dash/dazn-linear-037/stream.mpd?p=web
 https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-037/stream.mpd
 #KODIPROP:inputstreamaddon=inputstream.adaptive
