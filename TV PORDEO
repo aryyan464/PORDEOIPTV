@@ -17,81 +17,6 @@ https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-055/stream.mpd?p=web
 https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-056/stream.mpd?p=web
 
 
-https://d1211whpimeups.cloudfront.net/smil:rtb2/chunklist_b608000_sleng.m3u8
-https://tvnow.best/api/stream/billypetty22@gmail.com/413397/livetv.epg/ss.premier.league.ze.m3u8
-#KODIPROP:inputstreamaddon=inputstream.adaptive 
-#KODIPROP:inputstream.adaptive.manifest_type=dash 
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"3fpujVSbTVF3qcref5oLIw", "kid":"wdyS8HifESUDwNs73i8SEA" } ], "type":"temporary" } 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=84bf9ad6848be7db20f9d16823deef10:654f2d25a5bfb27c9e5ae0852584a166
-EXTINF:-1 tvg-id="klive1hd" group-title="LIVE EVENT" tvg-logo="https://i.postimg.cc/Jn7F4ZH5/Premier-League-Logo-wine.png", Premier League Ch 1
-https://quiet-rain-1d8f.wkwkw.workers.dev/staging-linearjitp-playback.astro.com.my/dash-wv/linear/601/default_primary.mpd
-https://astrompd.kalinggap1.workers.dev/https://linearjitp-playback.astro.com.my/dash-wv/linear/2104/default_primary.mpd
-
-#EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://i.postimg.cc/N0x5xzCd/truepremfb1.png",True Premier Football 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.youdooball.com/
-https://sport.livedoomovies.com:4432/02_PremierHD1_720p/chunklist.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Jn7F4ZH5/Premier-League-Logo-wine.png" group-title="LIVE EVENT", Premier League Ch 1
-https://storage.googleapis.com/crystalnew1/mux_video_ts/index-1.m3u8
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"7ImnXtmtxOTHZwcHkBWXhg", "kid":"Kggglwkxt/hRN9o3+fYc2Q" } ], "type":"temporary" }
-https://bkm.fbox.fpt.vn/bpk-tv/KplusSport1/output/index.mpd
-https://jk-live-us76.supportnettv.com/live/spotv_on_540/playlist.m3u8?secret=8756f4d6996bb4d827f2248bd6d7d72b&time=1680689584
-
-
-EXTINF:-1 tvg-logo="https://i.postimg.cc/Jn7F4ZH5/Premier-League-Logo-wine.png" group-title="LIVE EVENT", Premier League Ch 2
-
-#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
-#EXTVLCOPT:http-user-agent=android-R+
-http://webudit.cdnhks.lol/lb/premium130/index.m3u8
-https://webudit.salamus1.lol/lb/premium130/index.m3u8?
-https://webudit.salamus1.lol/lb/premium414/index.m3u8
-
-url": "https://ntuplay.xyz/premiumtv/daddylivehd.php?id=130",
-          "referer": "https://daddylivehd.sx",
-          "isHost": "true"
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Jn7F4ZH5/Premier-League-Logo-wine.png" group-title="LIVE EVENT", Premier League Ch 3
-http://b4tv.live/play/4QwRtVvD1xJIP-l7j-o7UnEUF_PuDX8GqPgBymlu6t4/.m3u8
-#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
-#EXTVLCOPT:http-user-agent=android-R+
-http://webudit.hlsjs.ru/lb/premium61/index.m3u8
-http://webudit.cdnhks.lol/lb/premium61/index.m3u8
-http://webudit.cdnhks.lol/lb/premium61/index.m3u8?
-http://shareext@clientsportals.tv/play/live.php?mac=00:1A:79:70:39:2a&stream=115617&extension=ts&play_token=JriqBmW8MR
-
-
-
-EXTINF:-1 tvg-logo="https://i.postimg.cc/Jn7F4ZH5/Premier-League-Logo-wine.png" group-title="LIVE EVENT", Premier League Ch 4
-#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
-#EXTVLCOPT:http-user-agent=android-R+
-http://webudit.hlsjs.ru/lb/premium140/index.m3u8
-http://webudit.cdnhks.lol/lb/premium140/index.m3u8
-https://webudit.salamus1.lol/lb/premium140/index.m3u8
-
-
-
-EXTINF:-1 tvg-logo="https://i.postimg.cc/Jn7F4ZH5/Premier-League-Logo-wine.png" group-title="LIVE EVENT", Premier League Ch 5
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://streamservicehd.click/
-http://webudit.cdnhks.lol/lb/premium466/index.m3u8
-
-
-EXTINF:-1 tvg-logo="https://i.postimg.cc/Jn7F4ZH5/Premier-League-Logo-wine.png" group-title="LIVE EVENT", Premier League Ch 1
-http://smartsistem.xyz:8080/oguzozkan/6726159823/72222
-#EXTVLCOPT:http-referrer=https://www.movie87hd.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20100101 Firefox/31.0
-https://sport.livedoomovies.com:4431/02_PremierHD1_720p/chunklist.m3u8
-
-
-#KODIPROP:inputstream.adaptive.stream_headers=referer=https://streamservicehd.click&referer=https://streamservicehd.click/premiumtv/daddyhd.php?id=43&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://webudit.onlinewebtv.lol/lb/premium124/index.m3u8 
-
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=9c0b24d5e9e2456c93f8fae2e913182c=e06339c46258a695fc8a2e8bfb394b6a 
 #EXTVLCOPT:http-referrer=https://olacast.live/
@@ -102,13 +27,22 @@ user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20011101 Firefox/3
 https://cdsvideolive3.solocoo.tv/blueskycdslive7dash/blueziggosportvoetbal/Manifest.mpd
 
 
+#EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://fn.dmpcdn.com/TrueIDWeb/Home/Campaigns/Channel-True-Premier-Football-HD1.png", True Premier Football 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
+#EXTVLCOPT:http-referrer=https://www.youdooball.com/
+https://youdooball.livedoomovies.com:4432/02_PremierHD1_720p/chunklist.m3u8
+https://ctrl.laotv.la/live/TSport1/index.m3u8
+
+#EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://fn.dmpcdn.com/TrueIDWeb/Home/Campaigns/Channel-True-Premier-Football-HD2.png", True Premier Football 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
+#EXTVLCOPT:http-referrer=https://www.youdooball.com/
+https://youdooball.livedoomovies.com:4432/02_PremierHD2_720p/chunklist.m3u8
+https://ctrl.laotv.la/live/TSport2/index.m3u8
+
+#EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://fn.dmpcdn.com/TrueIDWeb/Home/Campaigns/Channel-True-Premier-Football-HD3.png", True Premier Football 3
+https://ctrl.laotv.la/live/TrueSport2/index.m3u8
 
 
-EXTINF:-1 tvg-logo="https://i.postimg.cc/Jn7F4ZH5/Premier-League-Logo-wine.png" group-title="LIVE EVENT", Premier League Ch 5
-#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
-#EXTVLCOPT:http-user-agent=android-R+
-https://webudit.salamus1.lol/lb/premium415/index.m3u8o
-https://webudit.onlinewebtv.lol/lb/premium415/index.m3u8?
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZWQ0NjNlZDctNzI1Yy0zY2JlLTg3N2UtOGQ0MTU5MTc0Y2Nh
