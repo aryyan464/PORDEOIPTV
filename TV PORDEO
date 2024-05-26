@@ -86,7 +86,7 @@ https://webudit.onlinewebtv.lol/lb/premium61/index.m3u8?
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 
 https://dai.google.com/linear/hls/event/V9h-iyOxRiGp41ppQScDSQ/master.m3u8
 https://dai.google.com/linear/hls/event/BCOFZq1JQjq12fmaO6lAAA/master.m3u8
-#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
+#EXTVLCOPT:http-referrer=https://widevine.licenses4.
 #EXTVLCOPT:http-user-agent=android-R+
 http://webudit.cdnhks.lol/lb/premium119/index.m3u8
 https://webudit.salamus1.lol/lb/premium119/index.m3u8
@@ -809,14 +809,6 @@ EXTINF:-1 tvg-logo="https://www.xtra.com.my/wp-content/themes/xtra_revamp/assets
 
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/0jqL3t2x/972px-Moto-Gp-logo-svg.png" group-title="MOTO GP",Moto Gp Live
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch329%29/index.m3u8
-https://12537-stream-ip-tv.xyz/play.mpd?ch=eyJ1c2VyX3Rva2VuIjoiTzJ3VmZhZG4iLCJyZWZyZXNoX3Rva2VuIjoiKzhwd3YyNW1iSFlQd09LS3lkVGdPcjBvaERjWmZTZXBZdFlnaVZOUENTWU5UMUQ4VzVHY3NuMTlXWndRSDN0YkJVY3pkM1dkWmo2dDdxMXVpSmRtb3JLZlRtTkdrek9LZzFva2hKdm1rSFBLTE9yYWJtc3RvcFJleTZYMW1RMVdGWkYvVy9BZFlWWXE3UklxMndOUnF4eTdVRitvSk5KU3BnZ2dkZjhDNEZ0OXhVV21ROEUzdzk5WFZpYlBaNUduYTU5VlVwdFgwUTUrSUYzb2xMRFJJWUZobEVMemxmbDdRa21rNUcyUithK2VrNjdMcmNlUGNYYjQvbER3T0hVRTVlYkxidDI4RDR5ekU3Q1NrL2MwVkkveUV1aS9PajZhKzB6MFRXNVZsYUpTTU5ndmEvU1JYbXY5QmI0ZWNLdWc4bUdMc2x0UTlPck1lbEdlbWhBOFQxai81VkRUWk5mSkZ1THhUSlNGODlzPSJ9
-
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/0jqL3t2x/972px-Moto-Gp-logo-svg.png" group-title="MOTO GP",Moto Gp Live
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch3300%29/index.m3u8
-
-
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
 #EXTVLCOPT:http-referrer=https://visionplus.id
@@ -873,8 +865,6 @@ EXTINF:-1 tvg-logo="https://i.postimg.cc/0jqL3t2x/972px-Moto-Gp-logo-svg.png" gr
 https://nyanv-live-cdn.mncnow.id/live/eds/SPOTV2-HD/sa_dash_vmx/SPOTV2-HD.mpd
 https://hw8871-live-cdn.mncnow.id/live/eds/SPOTV2-HD/sa_dash_vmx/SPOTV2-HD.mpd
 
-https://bcovlive-a.akamaihd.net/48eee16919834d3b97df1082a649bcfa/ap-northeast-1/6271486521001/profile_0/chunklist.m3u8
-
 
 
 EXTINF:-1 tvg-logo="https://i.postimg.cc/0jqL3t2x/972px-Moto-Gp-logo-svg.png" group-title="MOTO GP",Moto Gp Live
@@ -889,18 +879,6 @@ EXTINF:-1 tvg-logo="https://i.postimg.cc/0jqL3t2x/972px-Moto-Gp-logo-svg.png" gr
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 
 https://cdn.thomasandi.my.id/chpriv/daddy.m3u8?id=premium824&andi=ddy1
 https://daddy.yurendtv.biz.id/https://ddy1.onlinewebtv.lol/ddy1/premium824/tracks-v1a1/mono.m3u8
-
-https://cdn.thomasandi.my.id/chpriv/daddy.m3u8?id=premium32&andi=ddy1
-
-EXTINF:-1 tvg-logo="https://i.postimg.cc/0jqL3t2x/972px-Moto-Gp-logo-svg.png" group-title="MOTO GP",Moto Gp Live
-#EXTVLCOPT:http-referrer=https://daddylivehd.sx 
-https://ntuplay.xyz/premiumtv/daddylivehd.php?id=130
-
-EXTINF:-1 tvg-logo="https://i.postimg.cc/0jqL3t2x/972px-Moto-Gp-logo-svg.png" group-title="MOTO GP",Moto Gp Live
-#EXTVLCOPT:http-referrer=https://freetvdd.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
-https://streaming.livescorethai.net/iptv/uk-skysports-epl.stream/chunks.m3u8
-
 
 
 
