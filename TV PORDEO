@@ -303,7 +303,6 @@ http://anevia115.mncnow.id/live/eds/TVOne/sa_dash_vmx/TVOne.mpd
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://youtube.com/watch?v=yNKvkPJl-tg
 
 
-
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -326,7 +325,7 @@ http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist_w1397359875
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZWQ0NjNlZDctNzI1Yy0zY2JlLTg3N2UtOGQ0MTU5MTc0Y2Nh
 #EXTVLCOPT:http-referrer=https://visionplus.id
 #EXTINF:-1 tvg-id="KOMPASTV.id" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_106.png" group-title="LOKAL", KOMPAS TV
-https://nyanv-live-cdn.mncnow.id/live/eds/KompasTV/sa_dash_vmx/KompasTV.mpd
+https://liveaneviadev-live-cdn.mncnow.id/live/eds/KompasTV/sa_dash_vmx/KompasTV.mpd
 https://vis.kobomen.xyz/live/eds/KompasTV/sa_dash_vmx/KompasTV.mpd
 
 
@@ -339,46 +338,15 @@ https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(dc9040ad-a4e1-4d
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIsultengpalu)/Stream(03)/index.m3u8
 
 
-#EXTINF:-1 tvg-id="Erz.tvriSulteng" tvg-name="" tvg-country="ID" tvg-language="Indonesian" tvg-logo="https://i.imgur.com/wIh3qZo.png" group-title="LOKAL",TVRI Sulteng Palu
-http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRISULTENGPALU)/index.m3u8?checkedby:iptvcat.com
-
-
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
 EXTINF:-1 group-title="LOKAL" tvg-logo="https://static.epg.best/id/TVRI.id.png", TVRI NASIONAL 
-https://anevia114.mncnow.id/live/eds/PemersatuBangsa/sa_dash_vmx/PemersatuBangsa.mpd
+https://liveaneviadev.mncnow.id/live/eds/PemersatuBangsa/sa_dash_vmx/PemersatuBangsa.mpd
 https://live-cdn.mncnow.id/live/eds/PemersatuBangsa/sa_dash_vmx/PemersatuBangsa.mpd
 7
 
-EXTINF:-1 group-title="LOKAL" tvg-logo="https://rubbyguntara.github.io/src/img/Ochannel.png",O Channel
- 
-EXTINF:-1 tvg-id="RCTI.Id" tvg-logo="https://cdn.ksa.my.id/rcti.png" group-title="LOKAL",RCTI+
-#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-#EXTVLCOPT:http-user-agent=AppleWebKit/537.36 (KHTML, like Gecko)
-https://rcti-linier.rctiplus.com/RCTI2022.m3u8|Referer=https://www.rctiplus.com/|User-Agent=AppleWebKit/537.36 (KHTML, like Gecko)
-
-https://d35d0ifx19oopq.cloudfront.net/RCTI_2021.m3u8|Referer=https://www.rctiplus.com/|User-Agent=AppleWebKit/537.36 (KHTML, like Gecko)
 
 
-
-
-EXTINF:-1 tvg-id="GTV.Id" tvg-logo="https://cdn.ksa.my.id/gtv.png" group-title="LOKAL",GTV+
-#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-#EXTVLCOPT:http-user-agent=AppleWebKit/537.36 (KHTML, like Gecko)
-https://d322b885qvsbxg.cloudfront.net/GTV2021.m3u8|Referer=https://www.rctiplus.com/|User-Agent=AppleWebKit/537.36 (KHTML, like Gecko)
-
-EXTINF:-1 tvg-id="MNCTV.Id" tvg-logo="https://cdn.ksa.my.id/mnctv.png" group-title="LOKAL",MNCTV+
-#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-#EXTVLCOPT:http-user-agent=AppleWebKit/537.36 (KHTML, like Gecko)
-https://d2oaub8o4ti3xm.cloudfront.net/MNCTV_2021.m3u8|Referer=https://www.rctiplus.com/|User-Agent=AppleWebKit/537.36 (KHTML, like Gecko)
-
-
-EXTINF:-1 tvg-id="iNews.Id" tvg-logo="https://cdn.ksa.my.id/inews.png" group-title="LOKAL",iNewsTV+
-#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-#EXTVLCOPT:http-user-agent=AppleWebKit/537.36 (KHTML, like Gecko)
-https://d3o5yreltwquyt.cloudfront.net/INEWS2022.m3u8|Referer=https://www.rctiplus.com/|User-Agent=AppleWebKit/537.36 (KHTML, like Gecko)
-
- 
 ########### NEWS ###########
  
 #EXTINF:-1 tvg-logo="https://i.imgur.com/S3Gn16p.png?v=1.0.0.1" group-title="NEWS", Al arabiya
@@ -408,7 +376,7 @@ https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(bd164a95-722d-4
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZWQ0NjNlZDctNzI1Yy0zY2JlLTg3N2UtOGQ0MTU5MTc0Y2Nh
 #EXTINF:-1 group-title="RELIGI"  tvg-logo="https://www.dropbox.com/s/pjs6l1i9t5bz0g8/alquran.png?dl=1",MAKKAH
-https://anevia114.mncnow.id/live/eds/AlQuranAlKareem/sa_dash_vmx/AlQuranAlKareem.mpd
+https://liveaneviadev.mncnow.id/live/eds/AlQuranAlKareem/sa_dash_vmx/AlQuranAlKareem.mpd
 
 
 #EXTINF:0 tvg-logo="https://i.postimg.cc/MHScg2Ld/logo-rodjatv-1-1.png" group-title="RELIGI",Rodja TV Cileungsi 
