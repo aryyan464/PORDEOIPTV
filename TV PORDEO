@@ -8,24 +8,14 @@ https://dce-ac-live.cdn.indazn.com:443/dash/dazn-linear-054/stream.mpd?p=web
 https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-054/stream.mpd?p=web
 
 #EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://i.ibb.co/JpGPnd6/eleven2.png",Eleven Sports 2
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
-https://dce-ac-live-cdn.indazn.com:443/dash/dazn-linear-055/stream.mpd?p=web
+#KODIPROP:inputstream.adaptive.license_type=clearkey	
+#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0 
+https://dce-ac-live.cdn.indazn.com:443/dash/dazn-linear-055/stream.mpd?p=web
 
 #EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://i.ibb.co/TWhTFW8/eleven3.png",Eleven Sports 3
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
 https://dce-ac-live-cdn.indazn.com:443/dash/dazn-linear-056/stream.mpd?p=web
-
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey 
-#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=9c0b24d5e9e2456c93f8fae2e913182c=e06339c46258a695fc8a2e8bfb394b6a 
-#EXTVLCOPT:http-referrer=https://olacast.live/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-https://cdsvideolive3.solocoo.tv/blueskycdslive7dash/blueziggosportvoetbal/Manifest.mpd
-
-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20011101 Firefox/31.0
-https://cdsvideolive3.solocoo.tv/blueskycdslive7dash/blueziggosportvoetbal/Manifest.mpd
 
 
 #EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://fn.dmpcdn.com/TrueIDWeb/Home/Campaigns/Channel-True-Premier-Football-HD1.png", True Premier Football 1
@@ -80,47 +70,12 @@ https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-017/stream.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 
 
-
-EXTINF:-1 tvg-logo="https://i.postimg.cc/fW1CMt2n/0545510-Uefa-Champions-League-Wallpaper-5120x3200780x390.jpg" group-title="LIVE EVENT", Liga Champions Ch 2
-#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
-#EXTVLCOPT:http-user-agent=android-R+
-http://webudit.cdnhks.lol/lb/premium31/index.m3u8
-https://webudit.onlinewebtv.lol/lb/premium61/index.m3u8?
-
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/fW1CMt2n/0545510-Uefa-Champions-League-Wallpaper-5120x3200780x390.jpg" group-title="LIVE EVENT", Liga Champions Ch 3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 
-https://dai.google.com/linear/hls/event/V9h-iyOxRiGp41ppQScDSQ/master.m3u8
-https://dai.google.com/linear/hls/event/BCOFZq1JQjq12fmaO6lAAA/master.m3u8
-#EXTVLCOPT:http-referrer=https://widevine.licenses4.
-#EXTVLCOPT:http-user-agent=android-R+
-http://webudit.cdnhks.lol/lb/premium119/index.m3u8
-https://webudit.salamus1.lol/lb/premium119/index.m3u8
-
-
-EXTINF:-1 tvg-logo="https://i.postimg.cc/fW1CMt2n/0545510-Uefa-Champions-League-Wallpaper-5120x3200780x390.jpg" group-title="LIVE EVENT", Liga Champions CH 5
-#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
-#EXTVLCOPT:http-user-agent=android-R+
-http://webudit.cdnhks.lol/lb/premium426/index.m3u8
-https://webudit.salamus1.lol/lb/premium426/index.m3u8
-
-EXTINF:-1 tvg-logo="https://i.postimg.cc/sfBGzBb6/Italian-Serie-A-logo-PNG2.png" group-title="LIVE EVENT", Seri A Ch 1
-
-
-EXTINF:-1 tvg-logo="https://i.postimg.cc/mgshnHTK/laliga-h-16-9.jpg" group-title="LIVE EVENT", LaLiga Ch 1
-https://ip-panel.com:443/play/W6kcG9Poe8-XjppUpzDbiIR3yzEpmFfoyXSjcGFs8s1RSjKH2ANnys7jUunVtksFQUPcl0aRDMK3KFEVMskhUQt_l6080CXT9iFBra6mxlJ6EXlTVEK339dDHlgl5O3tUafi2-Hn7xG76HiLhT4uV4oqnbZMIw4BlzwKsI61GhU?ext=.ts
-https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-037/stream.mpd
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=cfb5e2b73bef4f3c878f25ab86a7451f&key=0d6712bf2a84edcc93d001a9613f6fec
-https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-043/stream.mpd
-
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"GxRPc-b-_pHNBfhQ4rWJ0A", "kid":"gvjioX2sRMChj2YEeTScWQ" } ], "type":"temporary" }
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/mgshnHTK/laliga-h-16-9.jpg" group-title="LIVE EVENT", LaLiga Ch 1
+EXTINF:-1 tvg-logo="https://i.postimg.cc/mgshnHTK/laliga-h-16-9.jpg" group-title="LIVE EVENT", LaLiga Ch 1
 https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-037/stream.mpd
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -131,42 +86,12 @@ https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-037/stream.mpd
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/mgshnHTK/laliga-h-16-9.jpg" group-title="LIVE EVENT", LaLiga Ch 2
+EXTINF:-1 tvg-logo="https://i.postimg.cc/mgshnHTK/laliga-h-16-9.jpg" group-title="LIVE EVENT", LaLiga Ch 2
 https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-043/stream.mpd
 https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-043/stream.mpd
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
  
-#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
-#EXTVLCOPT:http-user-agent=android-R+
-https://webudit.salamus1.lol/lb/premium415/index.m3u8
-https://webudit.onlinewebtv.lol/lb/premium415/index.m3u8?
-
-
-EXTINF:-1 tvg-logo="https://i.postimg.cc/mgshnHTK/laliga-h-16-9.jpg" group-title="LIVE EVENT", LaLiga Ch 3
-
-#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
-#EXTVLCOPT:http-user-agent=android-R+
-https://webudit.hlsjs.ru/lb/premium123/index.m3u8
-https://webudit.salamus1.lol/lb/premium91/index.m3u8
-
-EXTINF:-1 tvg-logo="https://i.postimg.cc/26DZ5w0v/fffaa22a80debb6ce84fa1b1b9cd5cc5.jpg" group-title="LIVE EVENT", SERI A CH 1
-#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
-#EXTVLCOPT:http-user-agent=android-R+
-http://webudit.cdnhks.lol/lb/premium56/index.m3u8
-https://webudit.salamus1.lol/lb/premium56/index.m3u8?
-
-
-EXTINF:-1 tvg-logo="https://i.postimg.cc/26DZ5w0v/fffaa22a80debb6ce84fa1b1b9cd5cc5.jpg" group-title="LIVE EVENT", SERI A CH 2
-#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
-#EXTVLCOPT:http-user-agent=android-R+
-http://webudit.cdnhks.lol/lb/premium33/index.m3u8
-
-EXTINF:-1 tvg-logo="https://i.postimg.cc/26DZ5w0v/fffaa22a80debb6ce84fa1b1b9cd5cc5.jpg" group-title="LIVE EVENT", SERI A CH 3
-#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
-#EXTVLCOPT:http-user-agent=android-R+
-http://webudit.cdnhks.lol/lb/premium456/index.m3u8
-https://webudit.salamus1.lol/lb/premium456/index.m3u8?
 
 
 #### Lokal ####
