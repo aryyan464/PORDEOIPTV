@@ -1,4 +1,4 @@
-
+0
 ###### LIVE #####
 
 #EXTINF:-1 group-title="LIVE EVENT"  tvg-logo="https://i.ibb.co/JRvJdR6/eleven1.png",Eleven Sports 1
@@ -10,12 +10,12 @@ https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-054/stream.mpd?p=web
 #EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://i.ibb.co/JpGPnd6/eleven2.png",Eleven Sports 2
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
-https://dce-fs-live-dazn-cdn.dazn.com:443/dashdrm/dazn-linear-055/stream.mpd?p=web
+https://dce-fs-live-cdn.indazn.com:443/dashdrm/dazn-linear-055/stream.mpd?p=web
 
 #EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://i.ibb.co/TWhTFW8/eleven3.png",Eleven Sports 3
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
-https://dce-fs-live-dazn-cdn.dazn.com:443/dashdrm/dazn-linear-056/stream.mpd?p=web
+https://dce-fs-live-cdn.indazn.com:443/dashdrm/dazn-linear-056/stream.mpd?p=web
 
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
