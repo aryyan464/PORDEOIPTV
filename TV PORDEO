@@ -1,4 +1,4 @@
-0
+
 ###### LIVE #####
 
 #EXTINF:-1 group-title="LIVE EVENT"  tvg-logo="https://i.ibb.co/JRvJdR6/eleven1.png",Eleven Sports 1
@@ -568,11 +568,6 @@ https://cdnjkt2.transvision.co.id:1001/live/master/3/4028c6856b6088c3016b87d64b9
 
 
 
-EXTINF:-1 tvg-logo="https://i.ibb.co/n600MdC/hbo.png" tvg-id="HBO.id" tvg-name="HBO" group-title="MOVIES",HBO
-https://bungkus.dumbo-tv.my.id/mpd/cubmu.mpd?id=4028c6856b6088c3016b87d64b970b53&andi=3
-
-
-
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
@@ -588,13 +583,6 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2304/default.mpd
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"eWE5ugWiq0Jfl4x/2YtDcg", "kid":"XWAOtwlE1oHCbB9I++YfEA" } ], "type":"temporary" }
 EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/9lmchrvt6dfd21s/hbohits.png" group-title="MOVIES",HBO Hits MALAY
 https://astrompd.kalinggap1.workers.dev/https://linearjitp-playback.astro.com.my/dash-wv/linear/5055/default_primary.mpd
-
-#KODIPROP:inputstreamaddon=inputstream.adaptive 
-#KODIPROP:inputstream.adaptive.manifest_type=dash 
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"fjdYjok6uSUuUFvW3aNb6w", "kid":"K5/3zBo9yf70fMV3NHLVEA" } ], "type":"temporary" } 
-EXTINF:-1 tvg-id="HBOFamily" tvg-logo="https://i.postimg.cc/L8vFgRY1/HBOfam.png" group-title="MOVIES",HBO FAMILY MALAY
-https://astrompd.kalinggap1.workers.dev/https://linearjitp-playback.astro.com.my/dash-wv/linear/5053/default_primary.mpd
 
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -613,8 +601,6 @@ EXTINF:-1 tvg-logo="https://i.ibb.co/n600MdC/hbo.png" tvg-id="HBO.id" tvg-name="
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2304/default.mpd 
 
 
-
-
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #EXTHTTP:{"dt-custom-data": "eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -627,50 +613,12 @@ https://cdnjkt2.transvision.co.id:1001/live/master/4/4028c6856c3db2cc016d054fbf6
 
 
 
-EXTINF:-1 group-title="MOVIES" tvg-id="hbohits.th" tvg-logo="https://gigatv.3bb.co.th/wp-content/themes/changwattana/img/channel/new2022/hbohit.png",HBO Hits
-#EXTVLCOPT:http-referrer=https://ais-vidnt.com/
-https://49-231-37-37-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0116/HLS/V0116.m3u8?playbackUrlPrefix=https://%24%7BplaybackHost%7D/ais/play/origin&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=a74f2c9d171d2f9940f4dc04fb04cb65&chunkHttps=true&tmid=B0001&tpbk=VeDieHaigsyrsP4P&rrt=1683645470&tmod=rfk&rsid=5b5ef52d-86bb-432a-8b6c-8aa85f2dfabf&tuid=jbyvGG%2FdqmxDOLh5AO7TzsqVUm1U7GEZPqVUXI9ASZ%2F02rRmaNLiMW59CHEeEBqB6EQTLYxWNqIVgz3ZzybbJRY+irA+g5Vzm06z845rvgGbc=&cdn=redfox-https&tdid=5e8266c54570acf0cd2dde795ad21999&origin=anevia&tfa=f0-fc&tttl=1683724992
-
-
-
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZWQ0NjNlZDctNzI1Yy0zY2JlLTg3N2UtOGQ0MTU5MTc0Y2Nh
-EXTINF:-1 tvg-id="HBOFamily" tvg-logo="https://i.postimg.cc/L8vFgRY1/HBOfam.png" group-title="MOVIES",HBO FAMILY 
-http://103.152.118.53:80/streams/trans/3/4028c6856b6088c3016b87d64b970b53/manifest.mpd
-https://anevi-live-channel-cdn.mncnow.id/live/eds/HBOFamily2/sa_dash_vmx/HBOFamily2.mpd
-https://akm611a-live-cdn.mncnow.id/live/eds/HBOFamily2/sa_dash_vmx/HBOFamily2.mpd
-https://anevia114.mncnow.id/live/eds/HBhOFamily2/sa_dash_vmx/HBOFamily2.mpd
-
-
-
 EXTINF:-1 group-title="MOVIES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/HBO_Family_logo.png",_HBO FAMILY
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://gowv.izzigo.tv:8063/?deviceId=MzcwM2FjMDQtY2UxOS0zMDk3LTkzMTYtZWM2MWM5NmI5NTYw
 https://live5-ott.izzigo.tv/out/u/dash/HBO-FAMILY-HD/default.mpd
  
-
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZWQ0NjNlZDctNzI1Yy0zY2JlLTg3N2UtOGQ0MTU5MTc0Y2Nh
-EXTINF:-1 tvg-id="HBOSignature" tvg-logo="https://i.postimg.cc/s2NFKcJf/HBOsig.png" group-title="MOVIES",HBO SIGNATURE  BACKUP
-http://103.150.197.226:25461/hometv@v1/server@lokal226/3009
-https://anevia114.mncnow.id/live/eds/HBOSignature2/sa_dash_vmx/HBOSignature2.mpd
-https://av-live-cdn.mncnow.id/live/eds/HBOSignature2/sa_dash_vmx/HBOSignature2.mpd
-
-
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZWQ0NjNlZDctNzI1Yy0zY2JlLTg3N2UtOGQ0MTU5MTc0Y2Nh
-EXTINF:-1 tvg-id="Cinemax" tvg-logo="https://i.postimg.cc/K85x7BV4/cinemax.png" group-title="MOVIES",CINEMAX 
-https://liveaneviadev.mncnow.id/live/eds/CinemaxHD2/sa_dash_vmx/CinemaxHD2.mpd
-https://av-live-cdn.mncnow.id/live/eds/CinemaxHD2/sa_dash_vmx/CinemaxHD2.mpd
-https://vis.rmvberantakan.com/live/eds/CinemaxHD2/sa_dash_vmx/CinemaxHD2.mpd
 
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -883,28 +831,27 @@ https://daddy.yurendtv.biz.id/https://ddy1.onlinewebtv.lol/ddy1/premium824/track
 ##### SPORT ######
 
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 
 
-#EXTINF:-1 group-title="SPORT" tvg-id="beinsports1indonesia.id" tvg-logo="https://i.postimg.cc/5yDM3wrP/be-IN-SPORTS1-DIGITAL-Mono-picsay.png",beIN Sports Indonesia 1 
+#EXTINF:-1 group-title="SPORT" tvg-id="beinsports1indonesia.id" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPooDEfnPydWGbAXYU2lRsiENb2_l1cKF7PQ&usqp=CAU",beIN Sports Indonesia 1 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
 https://cdn08jtedge.indihometv.com/dassdvr/133/beib1/manifest.mpd
 
-#EXTINF:-1 group-title="SPORT" tvg-id="beinsports3indonesia.id" tvg-logo="https://i.postimg.cc/Gm3bPNdZ/be-IN-SPORTS3-DIGITAL-Mono-picsay.png",beIN Sports Indonesia 3 
+
+#EXTINF:-1 group-title="SPORT" tvg-id="beinsports3indonesia.id" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPooDEfnPydWGbAXYU2lRsiENb2_l1cKF7PQ&usqp=CAU",beIN Sports Indonesia 3 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
 https://cdn08jtedge.indihometv.com/dassdvr/133/beib2/manifest.mpd
 
 
-#EXTINF:1 tvg-id="beINSports1Thailand.th" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPooDEfnPydWGbAXYU2lRsiENb2_l1cKF7PQ&usqp=CAU" group-title="SPORT", beIN Sports Thailand 1
+EXTINF:1 tvg-id="beINSports1Thailand.th" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPooDEfnPydWGbAXYU2lRsiENb2_l1cKF7PQ&usqp=CAU" group-title="SPORT", beIN Sports Thailand 1
 #EXTVLCOPT:http-referrer=https://www.movie87hd.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20100101 Firefox/31.0
 https://sport.livedoomovies.com:4432/02_epl1_720p/chunklist.m3u8
 https://youdooball.livedoomovies.com:4432/02_epl1_720p/chunklist.m3u8
 
-#EXTINF:1 tvg-id="beINSports2Thailand.th" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPooDEfnPydWGbAXYU2lRsiENb2_l1cKF7PQ&usqp=CAU" group-title="SPORT", beIN Sports THAILAND 3
+EXTINF:1 tvg-id="beINSports2Thailand.th" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPooDEfnPydWGbAXYU2lRsiENb2_l1cKF7PQ&usqp=CAU" group-title="SPORT", beIN Sports THAILAND 3
 #EXTVLCOPT:http-referrer=https://www.movie87hd.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20100101 Firefox/31.0
 https://sport.livedoomovies.com:4432/02_epl2_720p/chunklist.m3u8
