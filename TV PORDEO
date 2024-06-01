@@ -30,10 +30,6 @@ https://ctrl.laotv.la/live/TSport1/index.m3u8
 https://youdooball.livedoomovies.com:4432/02_PremierHD2_720p/chunklist.m3u8
 https://ctrl.laotv.la/live/TSport2/index.m3u8
 
-#EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://fn.dmpcdn.com/TrueIDWeb/Home/Campaigns/Channel-True-Premier-Football-HD3.png", True Premier Football 3
-https://ctrl.laotv.la/live/TrueSport2/index.m3u8
-
-
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZWQ0NjNlZDctNzI1Yy0zY2JlLTg3N2UtOGQ0MTU5MTc0Y2Nh
@@ -64,10 +60,17 @@ https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/wjgklbtvhh/o
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/fW1CMt2n/0545510-Uefa-Champions-League-Wallpaper-5120x3200780x390.jpg" group-title="LIVE EVENT", Liga Champions CH 1
+EXTINF:-1 tvg-logo="https://i.postimg.cc/fW1CMt2n/0545510-Uefa-Champions-League-Wallpaper-5120x3200780x390.jpg" group-title="LIVE EVENT", Liga Champions CH 1
 https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-017/stream.mpd
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://pbs.twimg.com/media/F3z3AJCb0AAgVoG.jpg" group-title="LIVE EVENT",LIGA CHAMPIONS 
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+https://nyanv-live-cdn.mncnow.id/live/eds/soccerchannel-test/sa_dash_vmx/soccerchannel-test.mpd 
 
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
