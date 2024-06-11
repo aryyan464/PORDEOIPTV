@@ -47,7 +47,12 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/manifest.mpd
 #EXTINF:-1 tvg-id="Okey.my" group-title="World Cup 26™ Qualifiers" tvg-id="" tvg-logo="https://i.ibb.co/hgSyb8F/wc2026qualifiers.png", World Cup 26™ Qualifiers 🇲🇾
 https://d25tgymtnqzu8s.cloudfront.net/smil:okey/manifest.mpd 
 
+#EXTINF:-1 tvg-id="Okey.my" group-title="World Cup 26™ Qualifiers" tvg-id="" tvg-logo="https://i.ibb.co/hgSyb8F/wc2026qualifiers.png", World Cup 26™ Qualifiers 
+https://1gr5dgmttgha1hp31faaukqe.ourdvsssvip.com/no1strim-pull.no1stream.com/no1stream/live224/playlist.m3u8?wsSecret=3bb12ef17f0b575eb25b892530429825&wsTime=1718108771&site=ogtv&wsSession=409db31519a62ec6a4781740-171810874331885&wsIPSercert=bee77d11bb103f551085a7501e3b16d2&wsiphost=local&wsBindIP=1
 
+
+#EXTINF:-1 tvg-id="Okey.my" group-title="World Cup 26™ Qualifiers" tvg-id="" tvg-logo="https://i.ibb.co/hgSyb8F/wc2026qualifiers.png", World Cup 26™ Qualifiers 
+https://lebo.huminbird.cn/live/ballbar_37110.m3u8
 
 
 ##### EUFA EURO 2024 ######
