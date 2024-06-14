@@ -1,4 +1,4 @@
-7
+ui7
 
 
 ##### UWFA EURO 2024 ######
@@ -31,6 +31,11 @@ https://tring.s.llnwi.net/delta/101/out/u/rtshsportottencryption.mpd
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/5g26UzU.png" group-title="UEFA EURO 2024", RUSH SPORT
 https://cors-proxy.elfsight.com/http://tv14s.xyz:8080/live/753468/894568/99568.ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/5g26UzU.png" group-title="UEFA EURO 2024", PPTV
+https://edge6a.v2h-cdn.com/pptv/pptv.stream/playlist.m3u8
+
+
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/5g26UzU.png" group-title="UEFA EURO 2024", Skysportseriea
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
