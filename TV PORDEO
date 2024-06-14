@@ -37,7 +37,7 @@ https://cdnlb.tvplayhome.lt/live/eds/LTV1_HD_HVC/GO3_LIVE_DASH_AVC/LTV1_HD_HVC.m
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/5g26UzU.png" group-title="UEFA EURO 2024", ETV
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=8cef674613af4db5a0e6c64f38149878:b2e253be26db2582d4bb6bc85e517599     
+#KODIPROP:inputstream.adaptive.license_key=b12e4044a681c01fe824600e0f034b41:b2e253be26db2582d4bb6bc85e517599     
 https://cdnlb.tvplayhome.lt:443/live/eds/ETV_HD_HVC/GO3_LIVE_DASH_AVC/ETV_HD_HVC.mpd
 
 
