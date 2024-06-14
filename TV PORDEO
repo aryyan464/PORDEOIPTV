@@ -26,10 +26,11 @@ https://tring.s.llnwi.net/delta/101/out/u/rtshsportottencryption.mpd
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/5g26UzU.png" group-title="UEFA EURO 2024", RUSH SPORT
 https://cors-proxy.elfsight.com/http://tv14s.xyz:8080/live/753468/894568/99568.ts
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/5g26UzU.png" group-title="UEFA EURO 2024", TV1
+#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/5g26UzU.png" group-title="UEFA EURO 2024", TV3
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=24f01ab8901e46048cdcef1f8c6e175a:e582f92da9d760e3da09c63d3386a766
+https://cdn4.tvplayhome.lt/live/eds/TV3_EE_HD_HVC/GO3_LIVE_DASH_AVC/TV3_EE_HD_HVC.mpd
 https://cdnlb.tvplayhome.lt/live/eds/LTV1_HD_HVC/GO3_LIVE_DASH_AVC/LTV1_HD_HVC.mpd
 
 
