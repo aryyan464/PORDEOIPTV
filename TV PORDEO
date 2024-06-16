@@ -21,18 +21,11 @@ https://cempedak-live-cdn.mncnow.id/live/eds/MNCSports3-HD/sa_dash_vmx/MNCSports
 #KODIPROP:inputstream.adaptive.license_key=b81b1942c65f35547ced1bff074206a5:a07dc4d86f51db7195f4b7e2abe9d9e8
 https://cempedak-live-cdn.mncnow.id/live/eds/Sportstar4/sa_dash_vmx/Sportstar4.mpd
 
-
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
 #EXTVLCOPT:http-referrer=https://visionplus.id
 #EXTINF:-1 group-title="UEFA EURO 2024" tvg-logo="https://imgur.com/gr0qzMY.png" , SS 4 BACKUP
 https://testfunctionlive.mncnow.id/live/eds/Sportstar4/sa_dash_vmx/Sportstar4.mpd
-
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/5g26UzU.png" group-title="UEFA EURO 2024", MATCH FUTBOL
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=5269ab07e6a6db7585324ae20542f191:dba0dccffba1b26f658ec85a616102e8
-https://strm.yandex.ru/kal/match_football1_hd/manifest.mpd
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/5g26UzU.png" group-title="UEFA EURO 2024", Sky Sports Main Event 251 IT
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -41,28 +34,31 @@ https://strm.yandex.ru/kal/match_football1_hd/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=00368000eaecbeeafd84c05b3b8243af:8f84185910e18ae0ca8a45004625a000
 http://linear304-it-dash1-prd-akg0.cdn13.skycdp.com/31917/FHD/skysport251/master.mpd
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/5g26UzU.png" group-title="UEFA EURO 2024", Skysport Calciohd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0036e5d0e88dfb087f1791da6150ced9:0bc653d830837dceb13bd17169f0f8e2
+https://linear301-it-dash1-prd-ll.cdn13.skycdp.com/016a/31209/FHD/skysportseriea/master.mpd
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/5g26UzU.png" group-title="UEFA EURO 2024", PPTV HD
 #EXTVLCOPT:http-referrer=https://ais-vidnt.com/ 
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key=0aeffa7753674e77b99443fac7757b8a:b8c8a462008a40aa91823e0b02e8dd31
 https://ubn-streamer1.cdn.3bbtv.com:8443/3bb/live/36/36.mpd
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/5g26UzU.png" group-title="UEFA EURO 2024", MATCH FUTBOL
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5269ab07e6a6db7585324ae20542f191:dba0dccffba1b26f658ec85a616102e8
+https://strm.yandex.ru/kal/match_football1_hd/manifest.mpd
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/5g26UzU.png" group-title="UEFA EURO 2024", PPTV
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"0dbd58616d7355b7a1a7c89df6a60199":"b755de82e54d2aa45ce8e39b80f45ed5","66f03e62d21d5a6397841fc2de1391eb":"75502c6cf014a32a18c9db45ca13a6c3","3ba59a2a76105666b260332e35e483f0":"6dca3af3176e313b6798f81120edd77d"}
 https://pptv-7jdibe.cdn.byteark.com/live/drmwv/index.mpd
 
-
 https://edge6a.v2h-cdn.com/pptv/pptv.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/5g26UzU.png" group-title="UEFA EURO 2024", CCTV5
 https://node3.olelive.com:6443/live/CCTV5HD/hls.m3u8
-
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/5g26UzU.png" group-title="UEFA EURO 2024", Skysport Calciohd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0036e5d0e88dfb087f1791da6150ced9:0bc653d830837dceb13bd17169f0f8e2
-https://linear301-it-dash1-prd-ll.cdn13.skycdp.com/016a/31209/FHD/skysportseriea/master.mpd
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/5g26UzU.png" group-title="UEFA EURO 2024", TSN4
 http://45.41.213.34:70/TSN4/tracks-v1a1/mono.m3u8
