@@ -52,6 +52,9 @@ https://node3.olelive.com:6443/live/CCTV5HD/hls.m3u8
 #KODIPROP:inputstream.adaptive.license_key=0036e5d0e88dfb087f1791da6150ced9:0bc653d830837dceb13bd17169f0f8e2
 https://linear301-it-dash1-prd-ll.cdn13.skycdp.com/016a/31209/FHD/skysportseriea/master.mpd
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/5g26UzU.png" group-title="UEFA EURO 2024", Super Sports 
+https://vipgoodlive-tvs.starcdn.live:443/SuperSport_Premier_League_Live_TV/tracks-v1a1/mono.m3u8?ref=https%3A%2F%2Fbeesport.net%2F&tokenkey=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpcGNsaWVudCI6IjUuMTgyLjIwOS4xMTIiLCJ1cmxzdHJlYW0iOiJodHRwczovL2xpdmVfdHYuc3RhcmNkbnVwLmNvbS9TdXBlclNwb3J0X1ByZW1pZXJfTGVhZ3VlX0xpdmVfVFYvaW5kZXgubTN1OCIsIndlYnNpdGUiOiJodHRwczovL2JlZXNwb3J0Lm5ldC9hdXRob3JpemUtY2hhbm5lbCIsImlzVklQIjoiMCIsImV4cCI6MTcxODM4NzA5NH0.3EDOrna-NGMdHODKLpKsuFyGDLO1EZm86T3FvWq_dqc
+
 #EXTINF:-1 group-title="UEFA EURO 2024" tvg-id="ITV1" tvg-logo="https://imgur.com/5g26UzU.png", ITV 1 🇬🇧
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
