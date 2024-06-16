@@ -55,7 +55,8 @@ https://linear301-it-dash1-prd-ll.cdn13.skycdp.com/016a/31209/FHD/skysportseriea
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/5g26UzU.png" group-title="UEFA EURO 2024", TSN4
 http://45.41.213.34:70/TSN4/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/5g26UzU.png" group-title="UEFA EURO 2024", BEIN MAX 1
+#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/5g26UzU.png" group-title="UEFA EURO 2024", SF1
+https://pl1.dramaticreadings.com:999/hls/mbundes1hd.m3u8?md5=mgXK5oHr8oHjqb69_Z_flQ&expires=1718544352
 https://cdn.footballii.ir:443/hls2/bein1.m3u8
 
 
