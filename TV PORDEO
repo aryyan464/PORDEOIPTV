@@ -34,7 +34,7 @@ EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/5g26UzU.png" group-title="UEFA E
 http://linear304-it-dash1-prd-akg0.cdn13.skycdp.com/31917/FHD/skysport251/master.mpd
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/5g26UzU.png" group-title="UEFA EURO 2024", Sky Sports uno
+EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/5g26UzU.png" group-title="UEFA EURO 2024", Sky Sports uno
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
