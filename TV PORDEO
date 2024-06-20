@@ -146,6 +146,13 @@ http://live.budtvlight.com:25461/live/rafanewl/t37DDpJuwD5j/11315.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TV Max Canal 9 (PA)(R)" tvg-logo="https://imgur.com/ZL3QXxN" group-title="COPA AMERICA 2024",TV Max Canal 9
 http://live.budtvlight.com:25461/live/rafanewl/t37DDpJuwD5j/166784.m3u8
 
+#EXTINF:-1 group-title="COPA AMERICA 2024" tvg-id="ITV1" tvg-logo="https://imgur.com/ZL3QXxN", TSN1
+http://xlbh-a36-ul29-30-lvnvcolox.dns-online.network:70/TSN1/index.m3u8
+
+#EXTINF:-1 group-title="COPA AMERICA 2024" tvg-id="ITV1" tvg-logo="https://imgur.com/ZL3QXxN", TSN4
+http://45.41.213.34:70/TSN4/index.m3u8
+
+
 
 ###### LIVE ##### 
 
