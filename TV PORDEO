@@ -1,5 +1,4 @@
 
-
 ##### UEFA EURO 2024 ######
 
 #EXTINF:-1 group-title="UEFA EURO 2024" tvg-logo="https://imgur.com/gr0qzMY.png" , SS 3 
@@ -165,8 +164,8 @@ http://live.budtvlight.com:25461/live/rafanewl/t37DDpJuwD5j/166784.m3u8
 https://tevi.my.id/Copa.m3u8/
 http://xlbh-a36-ul29-30-lvnvcolox.dns-online.network:70/TSN1/index.m3u8
 
-#EXTINF:-1 group-title="COPA AMERICA 2024" tvg-id="ITV1" tvg-logo="https://imgur.com/Xa8tEbU.png", copa america
-
+#EXTINF:-1 group-title="COPA AMERICA 2024" tvg-id="ITV1" tvg-logo="https://imgur.com/Xa8tEbU.png", Win Sports+
+http://tvlatino.live:8080/Martv1971/G5cSzPMeRUuH/76703.m3u8
 
 #EXTINF:-1 group-title="COPA AMERICA 2024" tvg-id="ITV1" tvg-logo="https://imgur.com/Xa8tEbU.png", copa america
 https://tevi.my.id/Copa5.m3u8
