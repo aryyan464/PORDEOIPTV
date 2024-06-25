@@ -28,10 +28,12 @@ https://cempedak-live-cdn.mncnow.id/live/eds/Sportstar4/sa_dash_vmx/Sportstar4.m
 https://cempedak-live-cdn.mncnow.id/live/eds/MNCSports3-HD/sa_dash_vmx/MNCSports3-HD.mpd
 https://testfunctionlive.mncnow.id/live/eds/Sportstar4/sa_dash_vmx/Sportstar4.mpd
 
-EXTINF:-1 group-title="UEFA EURO 2024" tvg-id="sonyten2.in" tvg-logo="https://imgur.com/5g26UzU.png",Sony Sports 2 HD
+#EXTINF:-1 group-title="UEFA EURO 2024" tvg-id="sonyten2.in" tvg-logo="https://imgur.com/5g26UzU.png",Bein Max 1
+https://sebagi.my.id/bein.m3u8
 https://mhdtvweb.com/sonyliv/stream.php?id=sony-ten-2-hd&=.m3u8%7CReferer=https://mhdtvweb.com/sonyliv/
 
-EXTINF:-1 group-title="UEFA EURO 2024" tvg-id="sonyten3.in" tvg-logo="https://imgur.com/5g26UzU.png",Sony Sports 3 HD
+#EXTINF:-1 group-title="UEFA EURO 2024" tvg-id="sonyten3.in" tvg-logo="https://imgur.com/5g26UzU.png",Bein Max 2
+https://sebagi.my.id/bein.m3u8
 https://mhdtvweb.com/sonyliv/stream.php?id=sony-ten-3-hd&=.m3u8%7CReferer=https://mhdtvweb.com/sonyliv/
 
 EXTINF:-1 group-title="UEFA EURO 2024" tvg-id="sonyten3.in" tvg-logo="https://imgur.com/5g26UzU.png",Sony Sports 5 HD
