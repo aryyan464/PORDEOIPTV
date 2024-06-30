@@ -170,7 +170,8 @@ http://xlbh-a36-ul29-30-lvnvcolox.dns-online.network:70/TSN1/index.m3u8
 #EXTINF:-1 group-title="COPA AMERICA 2024" tvg-id="ITV1" tvg-logo="https://imgur.com/Xa8tEbU.png", Win Sports+
 http://tvlatino.live:8080/Martv1971/G5cSzPMeRUuH/76703.m3u8
 
-#EXTINF:-1 group-title="COPA AMERICA 2024" tvg-id="ITV1" tvg-logo="https://imgur.com/Xa8tEbU.png", copa america
+#EXTINF:-1 group-title="COPA AMERICA 2024" tvg-id="ITV1" tvg-logo="https://imgur.com/Xa8tEbU.png", Sportv
+http://cafenegro.uk:80/live/Rafaluque/9dnjaRRe9E63/88866.ts
 https://tevi.my.id/Copa5.m3u8
 
 
