@@ -30,8 +30,13 @@ https://testfunctionlive.mncnow.id/live/eds/Sportstar4/sa_dash_vmx/Sportstar4.mp
 
 
 #EXTINF:-1 group-title="UEFA EURO 2024" tvg-id="sonyten2.in" tvg-logo="https://imgur.com/5g26UzU.png",  LA 1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=a3abc44525eef3b0a7af9138a9dbe34a:7740f8ae4223ce5ba293028f7f78f1c1
+https://cache3.zapitv.com/live/eds_c2/la1_4k/dash_live_enc/la1_4k.mpd
 https://i.mjh.nz/SamsungTVPlus/ESBC4100001NZ.m3u8
-https://sebagi.my.id/bein.m3u8
+
 
 #EXTINF:-1 group-title="UEFA EURO 2024" tvg-id="sonyten3.in" tvg-logo="https://imgur.com/5g26UzU.png", La 2
 http://zeuspro.xyz:8080/andrepin23/fUZW6bmvcC/117156
