@@ -163,6 +163,20 @@ https://wp2-obc1112-live-ch-prod.prod.cdn.dmdsdp.com/dash/SV09212/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=00362452ed102000ccea64c311921dc2:02f27bd6caab7633d3083b94d3958b1c
 https://linear301-it-dash1-prd-akp1.cdn13.skycdp.com/016a/31209/FHD/skysportseriea/master.mpd
 
+#EXTINF:-1 group-title="UEFA EURO 2024" tvg-id="ITV1" tvg-logo="https://imgur.com/5g26UzU.png", SONY 1
+http://watchindia.net:8880/live/30631/24314/2215.ts
+
+#EXTINF:-1 group-title="UEFA EURO 2024" tvg-id="ITV1" tvg-logo="https://imgur.com/5g26UzU.png", SONY 2
+http://watchindia.net:8880/live/30631/24314/1757.t
+
+#EXTINF:-1 group-title="UEFA EURO 2024" tvg-id="ITV1" tvg-logo="https://imgur.com/5g26UzU.png", SONY 3
+http://watchindia.net:8880/live/30631/24314/1758.ts
+
+
+
+
+
+
 
 #### COPA AMERICA 2024 ######
 
