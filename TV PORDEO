@@ -179,8 +179,6 @@ http://watchindia.net:8880/live/30631/24314/1758.ts
 #### COPA AMERICA 2024 ######
 
 
-
-
 #EXTINF:-1 group-title="COPA AMERICA 2024" tvg-id="ITV1" tvg-logo="https://imgur.com/Xa8tEbU.png", LIVE
 https://rds3gen.desdeparaguay.net/trecetv/trecetv_alta/playlist.m3u8
 
@@ -211,16 +209,16 @@ http://live.budtvlight.com:25461/live/rafanewl/t37DDpJuwD5j/162377.m3u8
 http://45.41.213.34:70/TSN4/index.m3u8
 
 #EXTINF:-1 group-title="COPA AMERICA 2024" tvg-id="ITV1" tvg-logo="https://imgur.com/Xa8tEbU.png", copa america
-https://alba-cr-repretel-c6.stream.mediatiquestream.com/original.m3u8
+
 
 #EXTINF:-1 group-title="COPA AMERICA 2024" tvg-id="ITV1" tvg-logo="https://imgur.com/Xa8tEbU.png", copa america
-https://linear-360.frequency.stream/mt/studio/360/hls/master/playlist.m3u8
+
 
 #EXTINF:-1 group-title="COPA AMERICA 2024" tvg-id="ITV1" tvg-logo="https://imgur.com/Xa8tEbU.png", copa america
-https://kora-sa.live/hls/0/stream.m3u8
+
 
 #EXTINF:-1 group-title="COPA AMERICA 2024" tvg-id="ITV1" tvg-logo="https://imgur.com/Xa8tEbU.png", copa america
-https://telecorporacion-es.cdn.vustreams.com/live/65b52a0a-415d-4686-8ef5-7a0b07b83992/live.isml/index.m3u8
+
 
 
 ###### LIVE ##### 
