@@ -37,6 +37,12 @@ http://cafenegro.uk:80/live/Rafaluque/9dnjaRRe9E63/88871.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/5g26UzU.png" group-title="UEFA EURO 2024", CCTV5
 https://node3.olelive.com:6443/live/CCTV5HD/hls.m3u8
 
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/5g26UzU.png" group-title="UEFA EURO 2024",SONY
+https://madplay.live/hls/jiotv/stream.php?id=523&e=.m3u8
+
+
+
 #EXTINF:-1 group-title="UEFA EURO 2024" tvg-id="sonyten2.in" tvg-logo="https://imgur.com/5g26UzU.png",  LA 1
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
