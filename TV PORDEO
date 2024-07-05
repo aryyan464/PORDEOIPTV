@@ -178,6 +178,8 @@ http://watchindia.net:8880/live/30631/24314/1758.ts
 
 #### COPA AMERICA 2024 ######
 
+#EXTINF:-1 group-title="COPA AMERICA 2024" tvg-id="ITV1" tvg-logo="https://imgur.com/Xa8tEbU.png", TV8 CANLI
+https://hw1.jemtv.com/app/tv85/chunks.m3u8
 
 #EXTINF:-1 group-title="COPA AMERICA 2024" tvg-id="ITV1" tvg-logo="https://imgur.com/Xa8tEbU.png", LIVE
 https://rds3gen.desdeparaguay.net/trecetv/trecetv_alta/playlist.m3u8
@@ -205,8 +207,6 @@ http://cafenegro.uk:80/live/Rafaluque/9dnjaRRe9E63/88866.ts
 https://tevi.my.id/Copa5.m3u8
 
 
-#EXTINF:-1 group-title="COPA AMERICA 2024" tvg-id="ITV1" tvg-logo="https://imgur.com/Xa8tEbU.png", TYC
-https://hw1.jemtv.com/app/tv85/chunks.m3u8
 http://live.budtvlight.com:25461/live/rafanewl/t37DDpJuwD5j/162377.m3u8
 http://45.41.213.34:70/TSN4/index.m3u8
 
