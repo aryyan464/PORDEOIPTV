@@ -188,7 +188,8 @@ http://live.budtvlight.com:25461/live/rafanewl/t37DDpJuwD5j/11315.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TV Max Canal 9 (PA)(R)" tvg-logo="https://imgur.com/Xa8tEbU.png" group-title="COPA AMERICA 2024",TV Max Canal 9
 http://live.budtvlight.com:25461/live/rafanewl/t37DDpJuwD5j/166784.m3u8
 
-#EXTINF:-1 group-title="COPA AMERICA 2024" tvg-id="ITV1" tvg-logo="https://imgur.com/Xa8tEbU.png", TUDN
+#EXTINF:-1 group-title="COPA AMERICA 2024" tvg-id="ITV1" tvg-logo="https://imgur.com/Xa8tEbU.png", TYC SPORTS
+http://cafenegro.uk:80/live/Rafaluque/9dnjaRRe9E63/88864.ts
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko)
 https://raw.githubusercontent.com/MayangTV/ya2m/master/siarindo.m3u8
 
