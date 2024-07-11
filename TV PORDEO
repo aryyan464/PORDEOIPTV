@@ -45,6 +45,13 @@ https://node3.olelive.com:6443/live/CCTV5HD/hls.m3u8
 https://madplay.live/hls/jiotv/stream.php?id=523&e=.m3u8
 
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/5g26UzU.png" group-title="UEFA EURO 2024", EURO LIVE
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=317aef79ab54447caaeecfec10c9b196:4d9fee9624bf32274cb407afd3d5d248
+https://m7rovideolive.solocoo.tv/blueskylive2dash/bluem4sport/Manifest.mpd
+
+
 
 #EXTINF:-1 group-title="UEFA EURO 2024" tvg-id="sonyten2.in" tvg-logo="https://imgur.com/5g26UzU.png",  LA 1
 #KODIPROP:inputstreamaddon=inputstream.adaptive
