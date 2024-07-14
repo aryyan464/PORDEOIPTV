@@ -187,11 +187,18 @@ http://watchindia.net:8880/live/30631/24314/1758.ts
 
 #### COPA AMERICA 2024 ######
 
+
 #EXTINF:-1 group-title="COPA AMERICA 2024" tvg-id="ITV1" tvg-logo="https://imgur.com/Xa8tEbU.png",D sport
 http://tecnozone.site:8090/YeSalinas/YenySa/180695
 
 #EXTINF:-1 group-title="COPA AMERICA 2024" tvg-id="ITV1" tvg-logo="https://imgur.com/Xa8tEbU.png", FOX SPORT
 http://89.46.92.46:8080/play/live.php?mac=00:1A:79:C8:98:57&stream=26077&extension=ts&play_token=hwt2Nc2Uz8
+
+#EXTINF:-1 group-title="COPA AMERICA 2024" tvg-id="ITV1" tvg-logo="https://imgur.com/Xa8tEbU.png", Live 1
+https://tevi.my.id/Copa6.m3u8/
+
+#EXTINF:-1 group-title="COPA AMERICA 2024" tvg-id="ITV1" tvg-logo="https://imgur.com/Xa8tEbU.png", live 2
+http://vvcmwnbpx4.wizzy.mastersofbiko.com:8080/play/live.php?mac=00:1A:79:71:B3:32&stream=1002748&extension=ts
 
 #EXTINF:-1 group-title="COPA AMERICA 2024" tvg-id="ITV1" tvg-logo="https://imgur.com/Xa8tEbU.png", TV85 CANLI
 https://hw1.jemtv.com/app/tv85/chunks.m3u8
