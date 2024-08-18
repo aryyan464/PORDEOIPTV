@@ -1,18 +1,6 @@
 
 
-
-#EXTINF:-1 group-title="LIVE EVENT"  tvg-logo="https://i.ibb.co/JRvJdR6/eleven1.png", indonsia vs thailand
-https://tevi.my.id/Spy_Timnas3.m3u8
-
-#EXTINF:-1 group-title="LIVE EVENT"  tvg-logo="https://i.ibb.co/JRvJdR6/eleven1.png", indonsia vs thailand
-https://tevi.my.id/Spy_Timnas4.m3u8
-
-
-
 ###### LIVE ##### 
-
-#EXTINF:-1 group-title="LIVE EVENT"  tvg-logo="https://i.ibb.co/JRvJdR6/eleven1.png", indonsia vs thailand
-http://bentre5.hoangai.vn:1239/live.cdnlive.pro/live/_definst_/stream_1_a86e6@lusd1/playlist.m3u8
 
 #EXTINF:-1 group-title="LIVE EVENT"  tvg-logo="https://i.ibb.co/JRvJdR6/eleven1.png",Eleven Sports 1
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
