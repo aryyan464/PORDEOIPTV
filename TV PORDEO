@@ -1,4 +1,4 @@
-
+7
 
 ###### LIVE ##### 
 
@@ -173,12 +173,13 @@ EXTINF:-1 tvg-logo="https://i.imgur.com/4KW8Qnr.png" group-title="LOKAL", RCTI
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDljZWY3MGUtM2I0Ni0zODQyLTk3ZjItMDI0MWFjOTA4ODc1
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#EXTINF:-1 tvg-logo="https://imgur.com/a/rcti-e0kvkMz" group-title="LOKAL", RCTI
+#EXTINF:-1 tvg-logo="https://imgur.com/a/rcti-e0kvkMz.png" group-title="LOKAL", RCTI
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZWQ0NjNlZDctNzI1Yy0zY2JlLTg3N2UtOGQ0MTU5MTc0Y2Nh
 #EXTVLCOPT:http-referrer=https://visionplus.id
 https://cempedak-live-cdn.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
 https:/liveaneviadev.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
+
 
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
