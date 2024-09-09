@@ -884,6 +884,9 @@ https://stream.warpballsod.tv/bein2.m3u8|referer=https://www.warpballsod.tv/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
 #EXTVLCOPT:http-referrer=https://visionplus.id
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZWQ0NjNlZDctNzI1Yy0zY2JlLTg3N2UtOGQ0MTU5MTc0Y2Nh
+#EXTVLCOPT:http-referrer=https://visionplus.id
 #EXTINF:-1 tvg-id="MNCSports.id" group-title="SPORT" tvg-logo="https://static.mncnow.id/images/channel/c350a134/2fc0_r32.jpg",Sportstar
 https://cempedak-live-cdn.mncnow.id/live/eds/MNCSports-HD/sa_dash_vmx/MNCSports-HD.mpd
 https://liveaneviadev.mncnow.id/live/eds/MNCSports-HD/sa_dash_vmx/MNCSports-HD.mpd
@@ -891,12 +894,18 @@ https://liveaneviadev.mncnow.id/live/eds/MNCSports-HD/sa_dash_vmx/MNCSports-HD.m
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
 #EXTVLCOPT:http-referrer=https://visionplus.id
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZWQ0NjNlZDctNzI1Yy0zY2JlLTg3N2UtOGQ0MTU5MTc0Y2Nh
+#EXTVLCOPT:http-referrer=https://visionplus.id
 #EXTINF:-1 tvg-id="MNCSports2.id" group-title="SPORT" tvg-logo="https://static.mncnow.id/images/channel/7284b855/28fc_r32.jpg",Sportstar 2
 https://cempedak-live-cdn.mncnow.id/live/eds/MNCSports2-HD/sa_dash_vmx/MNCSports2-HD.mpd
 https://liveaneviadev.mncnow.id/live/eds/MNCSports2-HD/sa_dash_vmx/MNCSports2-HD.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
+#EXTVLCOPT:http-referrer=https://visionplus.id
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZWQ0NjNlZDctNzI1Yy0zY2JlLTg3N2UtOGQ0MTU5MTc0Y2Nh
 #EXTVLCOPT:http-referrer=https://visionplus.id
 #EXTINF:-1 tvg-id="MNCSports3.id" group-title="SPORT" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_99.png",Sportstar 3
 https://cempedak-live-cdn.mncnow.id/live/eds/MNCSports3-HD/sa_dash_vmx/MNCSports3-HD.mpd
@@ -906,7 +915,10 @@ https://testfunctionlive.mncnow.id/live/eds/MNCSports3-HD/sa_dash_vmx/MNCSports3
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
 #EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTINF:-1 tvg-id="" group-title="SPORT" tvg-logo=" ",Sportstar 4
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZWQ0NjNlZDctNzI1Yy0zY2JlLTg3N2UtOGQ0MTU5MTc0Y2Nh
+#EXTVLCOPT:http-referrer=https://visionplus.id#EXTINF:-1 tvg-id="" group-title="SPORT" tvg-logo=" ",Sportstar 4
 https://testfunctionlive.mncnow.id/live/eds/Sportstar4/sa_dash_vmx/Sportstar4.mpd
 https://liveaneviadev.mncnow.id/live/eds/Sportstar4/sa_dash_vmx/Sportstar4.mpd
 
@@ -936,9 +948,9 @@ https://cdn-01.toffeelive.com/origin-09/live-origin/smil:sony_ten2_hd.smil/manif
 https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-017/stream.mpd
 
 #EXTINF:-1 tvg-id="SoccerChannel.id" tvg-name="Soccer Channel" group-title="SPORT" tvg-logo="https://www.dropbox.com/s/tq0fu3ur3c04hkb/soccerchannel.png?dl=1",Soccer Channel
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZWQ0NjNlZDctNzI1Yy0zY2JlLTg3N2UtOGQ0MTU5MTc0Y2Nh
+#EXTVLCOPT:http-referrer=https://visionplus.id
 https://cempedak-live-cdn.mncnow.id/live/eds/soccerchannel-test/sa_dash_vmx/soccerchannel-test.mpd
 https://liveaneviadev.mncnow.id/live/eds/soccerchannel-test/sa_dash_vmx/soccerchannel-test.mpd
 
