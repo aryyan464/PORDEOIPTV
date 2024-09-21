@@ -961,8 +961,7 @@ https://liveaneviadev.mncnow.id/live/eds/soccerchannel-test/sa_dash_vmx/soccerch
 #EXTINF:-1 tvg-id="DAZN.1.es" tvg-logo="https://www.leparisien.fr/resizer/8FSAVEdo2q647CsIBSewbUcPFzs=/932x582/cloudfront-eu-central-1.images.arcpublishing.com/lpguideshopping/3JMT5WW2B5AKREOR43CLU36ZK4.jpg" group-title="SPORT" , Dazn COMBAT
 https://dcj-ac-live.cdn.indazn.com/dash/dazn-linear-502/stream.mpd
 
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://iili.io/JpNALAJ.png" group-title="SPORT", TVRI SPORT
+#EXTINF:-1 tvg-id="118" tvg-logo="https://www.dens.tv/images/channel-logo/118.jpg" group-title="SPORT", TVRI SPORT
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8
 
