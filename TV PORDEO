@@ -324,8 +324,10 @@ http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist_w1397359875
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZWQ0NjNlZDctNzI1Yy0zY2JlLTg3N2UtOGQ0MTU5MTc0Y2Nh
 #EXTVLCOPT:http-referrer=https://visionplus.id
 #EXTINF:-1 tvg-id="KOMPASTV.id" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_106.png" group-title="LOKAL", KOMPAS TV
+https://d2xz2v5wuvgur6.cloudfront.net/live/eds/KompasTV/sa_dash_vmx/KompasTV.mpd|Referer=https://www.visionplus.id/
 https://cempedak-live-cdn.mncnow.id/live/eds/KompasTV/sa_dash_vmx/KompasTV.mpd
 https://testfunctionlive.mncnow.id/live/eds/KompasTV/sa_dash_vmx/KompasTV.mpd
+
 
 
 #EXTINF:-1 tvg-id="KOMPASTV.id" tvg-logo="https://i.postimg.cc/J7XR1rf4/KOMPASTV.png" group-title="LOKAL", KOMPAS TV
