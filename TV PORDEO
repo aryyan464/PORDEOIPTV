@@ -8,6 +8,9 @@ http://xtv.ooo:8080/359052742/470428329/350972
 #EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://mncplay.id/wp-content/uploads/2013/10/indosiar-1.png", indonesia vs timor leste
 http://mytv-extra.com:80/live/t12mgxyb335/9832948789/45098.ts
 
+#EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://mncplay.id/wp-content/uploads/2013/10/indosiar-1.png", indonesia vs timor leste
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/162138
+
 #EXTINF:-1 group-title="LIVE EVENT" tvg-id="" tvg-logo="https://image.discovery.indazn.com/ca/v2/ca/image?id=1027457605030_image-header_pEs_1661945409000&quality=70&width=500",🇪🇸 DAZN 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
