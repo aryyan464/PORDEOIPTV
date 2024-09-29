@@ -1035,22 +1035,22 @@ https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-037/stream.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MjhkOWZkZjYtOGViOC0zNTkzLWFhOWEtNGFhMzJkMDk3NGE2
 #EXTVLCOPT:http-referrer=https://visionplus.id
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZWQ0NjNlZDctNzI1Yy0zY2JlLTg3N2UtOGQ0MTU5MTc0Y2Nh
 #EXTVLCOPT:http-referrer=https://visionplus.id
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/CxQPnVfD/FIGHT-SPORTS-2018.png" group-title="TV FIGHT", Fight Sports
 https://cempedak-live-cdn.mncnow.id/live/eds/FightSports/sa_dash_vmx/FightSports.mpd
 https://liveaneviadev.mncnow.id/live/eds/FightSports/sa_dash_vmx/FightSports.mpd
 
 
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/CxQPnVfD/FIGHT-SPORTS-2018.png" group-title="TV FIGHT", Fight Sports
+EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/CxQPnVfD/FIGHT-SPORTS-2018.png" group-title="TV FIGHT", Fight Sports
 https://shls-fight-sports-ak.akamaized.net/out/v1/ee7e6475b12e484bbfa5c31461ad4306/index.m3u8
 
 
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/international/fightbox-int.png" group-title="TV FIGHT", Fight Box
+EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/international/fightbox-int.png" group-title="TV FIGHT", Fight Box
 http://iptv.prosto.tv:7000/ch118/video.m3u8
 
 
-#EXTINF: -1 tvg-logo="https://i.postimg.cc/m2DG5YBG/channels4-profile.jpg" group-title="TV FIGHT", MMA TV
+EXTINF: -1 tvg-logo="https://i.postimg.cc/m2DG5YBG/channels4-profile.jpg" group-title="TV FIGHT", MMA TV
 https://stream.ads.ottera.tv/cl/230412cgrfermd4kv5dbth0760/1280x720_2300000_0_f.m3u8?i=475_819
 https://cdn-cf.fite.tv:443/linear/fite247/4038629_fite-247/live_722/chunks.m3u8
 
@@ -1059,7 +1059,7 @@ https://cdn-cf.fite.tv:443/linear/fite247/4038629_fite-247/live_722/chunks.m3u8
 https://d12a2vxqkkh1bo.cloudfront.net/hls/1080p/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/cC0hzD6W/gaya-bertarung-ayam.jpg" group-title="TV FIGHT", Adu Ayam
+EXTINF:-1 tvg-logo="https://i.postimg.cc/cC0hzD6W/gaya-bertarung-ayam.jpg" group-title="TV FIGHT", Adu Ayam
 http://203.154.243.31:8081/live/hisport/index.m3u8
 
 
