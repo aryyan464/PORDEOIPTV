@@ -43,13 +43,6 @@ https://fsly.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s/Live/channel(usa-west)
 https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL1-CTR-4s/Live/channel(usa-west)/master.mpd
 
 
-EXTINF:-1 xui-id="149" tvg-id="" tvg-name="Play Sports 1" tvg-logo="https://i.imgur.com/E2wVMVk.jpeg" group-title="LIVE EVENT",Play Sports 1
-http://103.127.99.190:80/play/ZacwcMgce4_cNW_Q3AOJh0IBEvQAx_LxZXNF0HPclV8/ts
-EXTINF:-1 xui-id="150" tvg-id="" tvg-name="Play Sports 2" tvg-logo="https://i.imgur.com/E2wVMVk.jpeg" group-title="LIVE EVENT",Play Sports 2
-http://103.127.99.190:80/play/ZacwcMgce4_cNW_Q3AOJh4H-SZw38kWrz0xV4EhpfLY/ts
-EXTINF:-1 xui-id="262" tvg-id="" tvg-name="Play Sports 3" tvg-logo="https://i.imgur.com/E2wVMVk.jpeg" group-title="LIVE EVENT",Play Sports 3
-http://103.127.99.190:80/play/ZacwcMgce4_cNW_Q3AOJh9b7f5u8LZ00S6TRHeA7Rag/ts
-
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -94,7 +87,8 @@ https://ctrl.laotv.la/live/TSport2/index.m3u8
 https://production-premium-vidio-bein3.akamaized.net/out/v1/3f1c8625c65f448f97b055eed9d6fa31/index.mpd
 http://929.noip.team:8080/play/live.php?mac=00:1A:79:4C:22:51&stream=296126&extension=ts&play_token=3ZlJmOk45P
 
-EXTINF:-1 tvg-logo="https://i-fries.bunkr.ru/liga-inggris-UgDH2FaG.png?download=true" group-title="LIVE EVENT" , Liga Inggris Dazn 1 
+#EXTINF:-1 tvg-logo="https://i-fries.bunkr.ru/liga-inggris-UgDH2FaG.png?download=true" group-title="LIVE EVENT" , Liga Inggris
+https://hls.cls.autos/hls/skyuno/index.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
 https://dce-ac-live.cdn.indazn.com:443/dash/dazn-linear-037/stream.mpd?p=web
