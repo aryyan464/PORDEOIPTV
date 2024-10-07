@@ -887,19 +887,22 @@ https://cdn08jtedge.indihometv.com/dassdvr/133/beib2/manifest.mpd
 https://liveaneviadev.mncnow.id/live/eds/SPOTV2-HD/sa_dash_vmx/SPOTV2-HD.mpd
 
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MjhkOWZkZjYtOGViOC0zNTkzLWFhOWEtNGFhMzJkMDk3NGE2
-EXTINF:-1 tvg-logo="https://i.postimg.cc/0jqL3t2x/972px-Moto-Gp-logo-svg.png" group-title="MOTO GP",Moto Gp Live
-https://liveaneviadev.mncnow.id/live/eds/SPOTV-HD/sa_dash_vmx/SPOTV-HD.mpd
-https://hw8871-live-cdn.mncnow.id/live/eds/SPOTV-HD/sa_dash_vmx/SPOTV-HD.mpd
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=0036ea2e908d4cc20ef08595da9ff991:08e1ae9fa0ee4d9ec2b194c4908613ae
+#EXTINF:-1 tvg-id="CHN" ch-number="CHN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Sky_Sport_MotoGP_-_Logo_2020.svg/512px-Sky_Sport_MotoGP_-_Logo_2020.svg.png" group-logo="https://get.tvpm.cc/motogp.png" group-title="MOTO GP" group-logo="https://get.tvpm.cc/motogp.png",Skysport  MotoGP B
+https://linear306-it-dash1-prd.selector.skycdn.it/016a/31483/FHD/skysportmotogp/master.mpd
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QvIPyxE.png" group-logo="https://get.tvpm.cc/motogp.png" group-title="MOTO GP",SuperSport Motorsport
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20011101 Firefox/31.0
+#EXTHTTP:{"Origin": "https://weblivehdplay.ru", "Referer": "https://weblivehdplay.ru/"}
+https://webhdrus.onlinehdhls.ru/lb/premium424/index.m3u8
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MjhkOWZkZjYtOGViOC0zNTkzLWFhOWEtNGFhMzJkMDk3NGE2
-EXTINF:-1 tvg-logo="https://i.postimg.cc/0jqL3t2x/972px-Moto-Gp-logo-svg.png" group-title="MOTO GP",Moto Gp Live
-https://nyanv-live-cdn.mncnow.id/live/eds/SPOTV2-HD/sa_dash_vmx/SPOTV2-HD.mpd
-https://hw8871-live-cdn.mncnow.id/live/eds/SPOTV2-HD/sa_dash_vmx/SPOTV2-HD.mpd
-
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yFCr5XX.png" group-logo="https://get.tvpm.cc/motogp.png" group-title="MOTO GP",DAZN F1 ES
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20011101 Firefox/31.0
+#EXTHTTP:{"Origin": "https://weblivehdplay.ru", "Referer": "https://weblivehdplay.ru/"}
+https://webhdrus.onlinehdhls.ru/lb/premium537/index.m3u8
 
 
 EXTINF:-1 tvg-logo="https://i.postimg.cc/0jqL3t2x/972px-Moto-Gp-logo-svg.png" group-title="MOTO GP",Moto Gp Live
