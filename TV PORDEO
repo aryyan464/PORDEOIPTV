@@ -35,10 +35,6 @@ https://sport.livedoomovies.com:4431/02_PremierHD4_720p/chunklist.m3u8|Referer=h
 https://sport.livedoomovies.com:4431/02_PremierHD5_720p/chunklist.m3u8|Referer=https://www.movie87hd.com/
 
 
-
-
-
-
 ###### LIVE ##### 
 
 #EXTINF:-1 group-title="LIVE EVENT" tvg-id="" tvg-logo="https://image.discovery.indazn.com/ca/v2/ca/image?id=1027457605030_image-header_pEs_1661945409000&quality=70&width=500",🇪🇸 DAZN 1
@@ -81,7 +77,6 @@ https://fsly.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s/Live/channel(usa-west)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=252a671825ba31ec8433f978c32ccf6d:ee560759ecc8d2274df2e63fcef56915
 https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL1-CTR-4s/Live/channel(usa-west)/master.mpd
-
 
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -158,11 +153,23 @@ https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-017/stream.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://pbs.twimg.com/media/F3z3AJCb0AAgVoG.jpg" group-title="LIVE EVENT",LIGA CHAMPIONS 
+EXTINF:-1 tvg-id="" tvg-logo="https://pbs.twimg.com/media/F3z3AJCb0AAgVoG.jpg" group-title="LIVE EVENT",LIGA CHAMPIONS 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 https://liveaneviadev.mncnow.id/live/eds/soccerchannel-test/sa_dash_vmx/soccerchannel-test.mpd 
+
+
+#EXTINF:-1 tvg-id="CHN" ch-number="CHN" tvg-logo="https://get.tvpm.cc/SupersportPL.jpg" group-logo="https://get.tvpm.cc/goal.png" group-logo="https://get.tvpm.cc/goal.png" group-title="LIVE EVENT" ,Premier League
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20011101 Firefox/31.0
+#EXTHTTP:{"Origin": "https://weblivehdplay.ru", "Referer": "https://weblivehdplay.ru/"}
+https://webhdrus.onlinehdhls.ru/lb/premium414/index.m3u8
+
+#EXTINF:0 tvg-id="415" tvg-name="iptv4u" tvg-logo="https://th.bing.com/th/id/OIP.GIf8J3XfFLsqFtZNzpFEGgAAAA?pid=ImgDet&rs=1" group-logo="https://get.tvpm.cc/goal.png" group-title="LIVE EVENT",La Liga
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20011101 Firefox/31.0
+#EXTHTTP:{"Origin": "https://weblivehdplay.ru", "Referer": "https://weblivehdplay.ru/"}
+https://webhdrus.onlinehdhls.ru/lb/premium415/index.m3u8
+
 
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
