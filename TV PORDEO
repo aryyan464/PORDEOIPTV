@@ -1,8 +1,6 @@
 
 
 
-
-
 #EXTINF:-1 group-logo="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Sky_Sport_Football_-_Logo_2020.svg/512px-Sky_Sport_Football_-_Logo_2020.svg.png" group-logo="https://get.tvpm.cc/goal.png" group-title="20- WORLD SOCCER",Sky Sport Football
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20011101 Firefox/31.0
 #EXTHTTP:{"Origin": "https://weblivehdplay.ru", "Referer": "https://weblivehdplay.ru/"}
@@ -310,6 +308,7 @@ https://cempedak-live-cdn.mncnow.id/live/eds/NetTV-HD/sa_dash_vmx/NetTV-HD.mpd
 
 
 #EXTINF:-1 group-title="LOKAL" tvg-logo="https://mncplay.id/wp-content/uploads/2013/10/indosiar-1.png",Indosiar
+https://spytv33.site/Evenbola5.m3u8/
 http://op-group1-swiftservehd-1.dens.tv/h/h207/02.m3u8
 http://aflaxtv.xyz:8080/kodicologne/NCvzkVPeXbuJfaM8T6QmSn/162138
 https://cdn09jtedge.indihometv.com/dvr/139/indosiar/manifest.mpd
