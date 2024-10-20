@@ -918,16 +918,26 @@ https://daddy.yurendtv.biz.id/https://ddy1.onlinewebtv.lol/ddy1/premium824/track
 
 ##### SPORT ######
 
-#EXTINF:-1 group-title="SPORT" tvg-id="beinsports1indonesia.id" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPooDEfnPydWGbAXYU2lRsiENb2_l1cKF7PQ&usqp=CAU",beIN Sports 1
+#EXTINF:-1 group-title="SPORT" tvg-id="beinsports1indonesia.id" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPooDEfnPydWGbAXYU2lRsiENb2_l1cKF7PQ&usqp=CAU",beIN Sports 1 | UNIFI
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=2516ad1166e96c876389f83aeb995522:a7570709f4b871fb0a431e0e163665de
 https://pop5clustera00de07172379a62d6189.hypp.tv/PLTV/88888888/224/3221227927/3221227927.mpd?rrsip=web.hypp.tv:443&zoneoffset=0&servicetype=1&icpid=&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=00m%2FA1gVngRZDLAcDG2%2BMWHgJ1pKvt1lRjGVuBjPOXv2AdOKWgIh5IEiDm%2FM0j6Ii8f55mVP8RzHkD4O6V5mZawZhUeey3zXlPlJuJ%2BxvAjJycHE0IqZBvG%2BXsudj34k%3A20240728232905%3AUTC%2C10001002674171%2C161.142.214.99%2C20240728232905%2Curn:Huawei:liveTV:XTV55456338%2C10001002674171%2C-1%2C0%2C1%2C%2C%2C2%2C1024%2C%2C%2C2%2C10000105575216%2C0%2C10000104356656%2C4165497230%2C%2C%2C2%2C1%2CEND&GuardEncType=2&it=H4sIAAAAAAAAADWOQW-DMBSD_02OUfJgpD3k1KlSpYlNKtu1cskjRQ2kS2il_fvByny0_VmeElo-vNrSvBi1rdRZ8bZUrgBBV8QVOio3ZAqR-buOlkSLEPrR19Et2Ndxd9JKKkmkZaFFs8ztA_zarO_DmZPV_9iR06Nv2brcyQeyhPeJPaY-jvIj4OczhbUiuFmvaUOzKrMhXZRiWtwG-Ton4oK8i8MNid1b9H-A7RAyixvaKzzXGNiO9xCe3Hty85tfZX3vD_QAAAA&tenantId=6001
 
 
+#EXTINF:-1 tvg-logo="https://unifi.com.my/tv/sites/default/files/2023-05/bein-sports2.png" group-title="SPORT",BeIN Sports 2 | UNIFI
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=9417ce4599f533e846b004f5b1e8683b:7f62fd86caec4ad8e06992b3e8b59968
-#EXTINF:-1 tvg-id="710.unifi" tvg-logo="http://playtv.unifi.com.my:7036/CPS/images/universal/film/logo/202204/20220422/202204220814593293cl.png" group-title="SPORT", beIN Sports 3 
+#KODIPROP:inputstream.adaptive.license_key=1c983e5a03b0f8adde686ef20497e2b4:f7b1d6556850b472f4f683519f4e41f7
+https://pop5clustera00de07172379a62d6189.hypp.tv/PLTV/88888888/224/3221227971/3221227971.mpd?rrsip=web.hypp.tv:443&zoneoffset=0&servicetype=1&icpid=&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=U0v281lovZMLWzqtXjPtYuOXwQCoIQRk449J%2BBUCcawgQY43Tg5eLk6%2BKHkOBbkVv%2FaciHRqnNnDuZfWMEk6l0rcymHBIhx5oJP4jv2fPK0%3D%3A20230206101746%3AUTC%2C1003663983%2C115.164.187.20%2C20230206101746%2Curn:Huawei:liveTV:XTV59922231%2C1003663983%2C-1%2C0%2C1%2C%2C%2C2%2C593%2C%2C%2C2%2C1343117%2C0%2C248412%2C47562943%2C%2C%2C2%2C1%2CEND&GuardEncType=2&it=H4sIAAAAAAAAADWPQU-EMBSE_02PDX2LUA49rdnExKDJolcztI9KttC1ZTfx3wuKc3wz38vMkmD56dEMKEB1rQlDX6raNWh6TfqAinRflVZk_mqjIWERwjj7NroNez8fP1QhC0mkpCLRbe9OAX5Ptrep52QO_9iZ0320bFwe5B1ZwvvEHssYZ_ka8P2Wwh4R3O3VVFU_VE1RriItlu3aIV9WR3wiH-N0RWL3HP0vsC4JmcUV9gLPLSY28y2EP-4lubXND5_xMYT0AAAA&tenantId=6001
+
+
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9417ce4599f533e846b004f5b1e8683b:7f62fd86caec4ad8e06992b3e8b59968 
+#EXTINF:-1 tvg-id="710.unifi" tvg-logo="http://playtv.unifi.com.my:7036/CPS/images/universal/film/logo/202204/20220422/202204220814593293cl.png" group-title="SPORT", beIN Sports 3 | UNIFI
 https://pop28clustera00de08172376d246317c.hypp.tv/PLTV/88888888/224/3221227892/3221227892.mpd?rrsip=web.hypp.tv:443&zoneoffset=0&servicetype=1&icpid=&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=00m%2FA1gVngRZDLAcDG2%2BMWHgJ1pKvt1lRjGVuBjPOXv2AdOKWgIh5IEiDm%2FM0j6IRsnRsEPdlGNe3iyDyRheXax9UpJ7aKfnPW2bzkkHLenJycHE0IqZBvG%2BXsudj34k%3A20240728232909%3AUTC%2C10001002674171%2C161.142.214.99%2C20240728232909%2Curn:Huawei:liveTV:XTV55456355%2C10001002674171%2C-1%2C0%2C1%2C%2C%2C2%2C1024%2C%2C%2C2%2C10000105575216%2C0%2C10000104356656%2C4165497230%2C%2C%2C2%2C1%2CEND&GuardEncType=2&it=H4sIAAAAAAAAADWOwQ6CMBiD32bHZRuIcNhJY2Ji0AT0an62n0kYTDcg8e0FxR7bfk0HDwqPe1lhnSKrcKtFFFdZnDKRJayOOUsg5UqQgK_cSUEUWNv0Jnd6wW7F7s4ZZVQITiNOymXuYMGszXzsKvSS_7EC_dQolDrUdIJAwRiPBobG9fRi4X31dq0QLNdrfCtmRWyTsDQiw-KWENo5IQ8IO9c9waM-OfMFZA02IHmCasFgDh3KfrT2x529nt98AHXPHSv0AAAA&tenantId=6001
+
 
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
