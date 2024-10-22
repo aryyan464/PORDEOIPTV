@@ -334,7 +334,8 @@ https://dsgtq5sngxkde.cloudfront.net/live/eds/TVOne-2/sa_hls/TVOne-2.m3u8?c
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
 #EXTVLCOPT:http-referrer=https://visionplus.id
-EXTINF:-1 tvg-id="TVONE.id" tvg-logo="https://i.postimg.cc/7LKpNcjR/TVONE.png" group-title="LOKAL", TVONE HD
+#EXTINF:-1 tvg-id="TVONE.id" tvg-logo="https://i.postimg.cc/7LKpNcjR/TVONE.png" group-title="LOKAL", TVONE HD
+https://sonar.ytlive.workers.dev/stream/UCER4rvDnRBPr_ncYW4UCZjg/master.m3u8
 http://anevia115.mncnow.id/live/eds/TVOne/sa_dash_vmx/TVOne.mpd
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://youtube.com/watch?v=yNKvkPJl-tg
 
