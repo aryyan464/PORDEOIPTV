@@ -1,4 +1,4 @@
-
+aaAA
 
 #EXTINF:-1 group-logo="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Sky_Sport_Football_-_Logo_2020.svg/512px-Sky_Sport_Football_-_Logo_2020.svg.png" group-logo="https://get.tvpm.cc/goal.png" group-title="20- WORLD SOCCER",Sky Sport Football
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20011101 Firefox/31.0
@@ -202,14 +202,10 @@ https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-043/stream.mpd
 #EXTVLCOPT:http-referrer=https://visionplus.id
 
 
-#EXTINF:-1 tvg-id="RCTI" tvg-name="RCTI" tvg-logo="https://i.imgur.com/un8daQS.png" group-title="LOKAL", RCTI FHD🇮🇩 
-
-#EXTVLCOPT:http-user-agent=android-R+ 
-
+#EXTINF:-1 tvg-id="RCTI" tvg-name="RCTI" tvg-logo="https://i.imgur.com/un8daQS.png" group-title="LOKAL", RCTI FHD
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-
+#EXTVLCOPT:http-user-agent=android-R+ 
 https://r-plus.sedotcw3.workers.dev/index.m3u8?id=rcti
-
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MjhkOWZkZjYtOGViOC0zNTkzLWFhOWEtNGFhMzJkMDk3NGE2
