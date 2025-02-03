@@ -1,30 +1,9 @@
 aaAA
 
-#EXTINF:-1 group-logo="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Sky_Sport_Football_-_Logo_2020.svg/512px-Sky_Sport_Football_-_Logo_2020.svg.png" group-logo="https://get.tvpm.cc/goal.png" group-title="20- WORLD SOCCER",Sky Sport Football
+EXTINF:-1 group-logo="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Sky_Sport_Football_-_Logo_2020.svg/512px-Sky_Sport_Football_-_Logo_2020.svg.png" group-logo="https://get.tvpm.cc/goal.png" group-title="20- WORLD SOCCER",Sky Sport Football
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20011101 Firefox/31.0
 #EXTHTTP:{"Origin": "https://weblivehdplay.ru", "Referer": "https://weblivehdplay.ru/"}
 https://webhdrus.onlinehdhls.ru/lb/premium35/index.m3u8
-
-
-#EXTINF:-1 tvg-id="TruePremierFootball1.th" tvg-logo="https://i.imgur.com/9FJknMK.png" group-logo="https://get.tvpm.cc/goal.png" group-title="20- WORLD SOCCER" group-logo="https://get.tvpm.cc/Worldsport.png",True Premier Football 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20100101 Firefox/31.0
-https://sport.livedoomovies.com:4431/02_PremierHD1_720p/chunklist.m3u8|Referer=https://www.movie87hd.com/
-6
-#EXTINF:-1 tvg-id="TruePremierFootball2.th" tvg-logo="https://i.imgur.com/yS94g00.png" group-logo="https://get.tvpm.cc/goal.png" group-title="20- WORLD SOCCER" group-logo="https://get.tvpm.cc/Worldsport.png",True Premier Football 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20100101 Firefox/31.0
-https://sport.livedoomovies.com:4431/02_PremierHD2_720p/chunklist.m3u8|Referer=https://www.movie87hd.com/
-
-#EXTINF:-1 tvg-id="TruePremierFootball3.th" tvg-logo="https://i.imgur.com/xBmmgXe.png" group-logo="https://get.tvpm.cc/goal.png" group-title="20- WORLD SOCCER" group-logo="https://get.tvpm.cc/Worldsport.png",True Premier Football 3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20100101 Firefox/31.0
-https://sport.livedoomovies.com:4431/02_PremierHD3_720p/chunklist.m3u8|Referer=https://www.movie87hd.com/
-
-#EXTINF:-1 tvg-id="TruePremierFootball4.th" tvg-logo="https://i.imgur.com/HOfAIeF.png" group-logo="https://get.tvpm.cc/goal.png" group-title="20- WORLD SOCCER" group-logo="https://get.tvpm.cc/Worldsport.png",True Premier Football 4
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20100101 Firefox/31.0
-https://sport.livedoomovies.com:4431/02_PremierHD4_720p/chunklist.m3u8|Referer=https://www.movie87hd.com/
-
-#EXTINF:-1 tvg-id="TruePremierFootball5.th" tvg-logo="https://i.imgur.com/IAvYAOR.png" group-logo="https://get.tvpm.cc/goal.png" group-title="20- WORLD SOCCER" group-logo="https://get.tvpm.cc/Worldsport.png",True Premier Football 5
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20100101 Firefox/31.0
-https://sport.livedoomovies.com:4431/02_PremierHD5_720p/chunklist.m3u8|Referer=https://www.movie87hd.com/
 
 
 ###### LIVE ####
