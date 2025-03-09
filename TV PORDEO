@@ -964,13 +964,13 @@ https://daddy.yurendtv.biz.id/https://ddy1.onlinewebtv.lol/ddy1/premium824/track
 
 ##### SPORT ######
 
-#EXTINF:-1 group-title="SPORT" tvg-id="beinsports1indonesia.id" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPooDEfnPydWGbAXYU2lRsiENb2_l1cKF7PQ&usqp=CAU",beIN Sports 1 | UNIFI
+EXTINF:-1 group-title="SPORT" tvg-id="beinsports1indonesia.id" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPooDEfnPydWGbAXYU2lRsiENb2_l1cKF7PQ&usqp=CAU",beIN Sports 1 | UNIFI
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=2516ad1166e96c876389f83aeb995522:a7570709f4b871fb0a431e0e163665de
 https://pop5clustera00de07172379a62d6189.hypp.tv/PLTV/88888888/224/3221227927/3221227927.mpd?rrsip=web.hypp.tv:443&zoneoffset=0&servicetype=1&icpid=&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=00m%2FA1gVngRZDLAcDG2%2BMWHgJ1pKvt1lRjGVuBjPOXv2AdOKWgIh5IEiDm%2FM0j6Ii8f55mVP8RzHkD4O6V5mZawZhUeey3zXlPlJuJ%2BxvAjJycHE0IqZBvG%2BXsudj34k%3A20240728232905%3AUTC%2C10001002674171%2C161.142.214.99%2C20240728232905%2Curn:Huawei:liveTV:XTV55456338%2C10001002674171%2C-1%2C0%2C1%2C%2C%2C2%2C1024%2C%2C%2C2%2C10000105575216%2C0%2C10000104356656%2C4165497230%2C%2C%2C2%2C1%2CEND&GuardEncType=2&it=H4sIAAAAAAAAADWOQW-DMBSD_02OUfJgpD3k1KlSpYlNKtu1cskjRQ2kS2il_fvByny0_VmeElo-vNrSvBi1rdRZ8bZUrgBBV8QVOio3ZAqR-buOlkSLEPrR19Et2Ndxd9JKKkmkZaFFs8ztA_zarO_DmZPV_9iR06Nv2brcyQeyhPeJPaY-jvIj4OczhbUiuFmvaUOzKrMhXZRiWtwG-Ton4oK8i8MNid1b9H-A7RAyixvaKzzXGNiO9xCe3Hty85tfZX3vD_QAAAA&tenantId=6001
 
 
-#EXTINF:-1 tvg-logo="https://unifi.com.my/tv/sites/default/files/2023-05/bein-sports2.png" group-title="SPORT",BeIN Sports 2 | UNIFI
+EXTINF:-1 tvg-logo="https://unifi.com.my/tv/sites/default/files/2023-05/bein-sports2.png" group-title="SPORT",BeIN Sports 2 | UNIFI
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1062,7 +1062,7 @@ https://dsgtq5sngxkde.cloudfront.net/live/eds/rcti-sportstar2/sa_hls/rcti-sports
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZWQ0NjNlZDctNzI1Yy0zY2JlLTg3N2UtOGQ0MTU5MTc0Y2Nh
 #EXTVLCOPT:http-referrer=https://visionplus.id
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZWQ0NjNlZDctNzI1Yy0zY2JlLTg3N2UtOGQ0MTU5MTc0Y2Nh
 #EXTVLCOPT:http-referrer=https://visionplus.id
 EXTINF:-1 tvg-id="MNCSports3.id" group-title="SPORT" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_99.png",Sportstar 3
 https://cempedak-live-cdn.mncnow.id/live/eds/MNCSports3-HD/sa_dash_vmx/MNCSports3-HD.mpd
