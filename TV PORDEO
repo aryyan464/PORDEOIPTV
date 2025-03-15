@@ -31,6 +31,11 @@ EXTINF:-1 tvg-id="DAZN 3.pt" tvg-logo="https://iili.io/d06YvLv.png" group-title=
 https://dcf-fs-live-dazn-cdn.dazn.com/dash/dazn-linear-056/stream.mpd
  
 
+#EXTINF:-1 tvg-id="" tvg-name="AF| CANAL+ PREMIERE LEAGUE HD LIVE-ONLEY" tvg-logo="https://lo1.in/fr/cnlp.l.png" group-title="LIVE EVENT",AF| CANAL+ PREMIERE LEAGUE HD LIVE-ONLEY
+http://extraott.com:900/live/3162523972/3791698850/378288.m3u8
+
+
+
 
 EXTINF:-1 group-title="LIVE EVENT" tvg-id="" tvg-logo="https://image.discovery.indazn.com/ca/v2/ca/image?id=1027457605030_image-header_pEs_1661945409000&quality=70&width=500",🇪🇸 DAZN 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
