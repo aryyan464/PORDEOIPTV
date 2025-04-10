@@ -39,8 +39,6 @@ http://geogersr.itilstrem.workers.dev/http://www.livedoomovies.com:4432/02_Premi
 http://geogersr.itilstrem.workers.dev/http://www.livedoomovies.com:4432/02_PremierHD2_720p/chunklist.m3u8
 
 
-
-
 #EXTINF:-1 tvg-logo="https://i-fries.bunkr.ru/liga-inggris-UgDH2FaG.png?download=true" group-title="LIVE EVENT" , Liga Inggris
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 seperti Mac OS X) AppleWebKit/605.1.15 (KHTML, seperti Gecko) Versi/18.0 Seluler/15E148 Safari/604.1
 #EXTVLCOPT:http-referrer=https://newembedplay.xyz/
@@ -841,9 +839,13 @@ https://stream.warpballsod.tv/bein2.m3u8|referer=https://www.warpballsod.tv/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZWQ0NjNlZDctNzI1Yy0zY2JlLTg3N2UtOGQ0MTU5MTc0Y2Nh
 #EXTVLCOPT:http-referrer=https://visionplus.id
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://sangkatv.xyz/kode/vision/media.php?id=112&type=drm
 #EXTINF:-1 tvg-id="MNCSports.id" group-title="SPORT" tvg-logo="https://static.mncnow.id/images/channel/c350a134/2fc0_r32.jpg",Sportstar
+https://d2tjypxxy769fn.cloudfront.net/out/v1/89a6e4261cd7470f83e5869e90440cff/index.mpd
 https://cempedak-live-cdn.mncnow.id/live/eds/MNCSports-HD/sa_dash_vmx/MNCSports-HD.mpd
-https://liveaneviadev.mncnow.id/live/eds/MNCSports-HD/sa_dash_vmx/MNCSports-HD.mpd
+
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
